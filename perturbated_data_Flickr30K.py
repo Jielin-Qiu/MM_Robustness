@@ -120,10 +120,7 @@ def getFileList(dir,Filelist, ext=None):
             newDir=os.path.join(dir,s)
             getFileList(newDir, Filelist, ext)
     return Filelist
- 
-org_img_folder='/home/ubuntu/Datasets/Flickr30K/flickr30k-images-test/'
-imglist = getFileList(org_img_folder, [], 'jpg')
-print('There are '+str(len(imglist))+' images\n')
+
  
 def gaussian_noise(x, severity):
     c = [.08, .12, 0.18, 0.26, 0.38][severity - 1]
@@ -537,6 +534,9 @@ def generate_flickr30k_c_datasets(method,current_severity):
         cv2.imwrite(savepath+imgname+'.jpg', new_img)
     print("%s completed"%(method.__name__))
 
+org_img_folder='./flickr30k-images-test/'
+imglist = getFileList(org_img_folder, [], 'jpg')
+print('There are '+str(len(imglist))+' images\n')
 
 method_chunk = [gaussian_noise,shot_noise,impulse_noise,speckle_noise,defocus_blur,glass_blur,zoom_blur,motion_blur,
                 fog,frost,snow,contrast,brightness,pixelate,elastic_transform,jpeg_compression]
