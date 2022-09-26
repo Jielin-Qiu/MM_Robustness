@@ -544,9 +544,9 @@ def frost(x, severity=5):
 
 def generate_coco_c_datasets(method,current_severity):
     print("start %s"%(method.__name__))
-    os.mkdir("COCO_C_%s_%s/"%(method.__name__,current_severity))
+    os.mkdir("COCO_IP_%s_%s/"%(method.__name__,current_severity))
     i=0
-    savepath = "/home/ubuntu/Datasets/COCO/COCO_C_%s_%s/"%(method.__name__,current_severity)
+    savepath = "./COCO/COCO_IP_%s_%s/"%(method.__name__,current_severity)
     for imgpath in imglist:
         imgname= os.path.splitext(os.path.basename(imgpath))[0]
         #print(imgname)
@@ -562,10 +562,9 @@ def generate_coco_c_datasets(method,current_severity):
     print("%s completed"%(method.__name__))
 
 
-#method_chunk = [gaussian_noise,shot_noise,impulse_noise,speckle_noise,gaussian_blur,defocus_blur,zoom_blur,
-#                fog,frost,snow,spatter,contrast,brightness,saturate,pixelate,elastic_transform]
+method_chunk = [gaussian_noise,shot_noise,impulse_noise,speckle_noise,defocus_blur,glass_blur,zoom_blur,motion_blur,
+                fog,frost,snow,contrast,brightness,pixelate,elastic_transform,jpeg_compression]
 
-method_chunk = [frost]
 
 severity_chunk = [1,2,3,4,5]
 

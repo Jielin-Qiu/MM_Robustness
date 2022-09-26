@@ -520,9 +520,9 @@ def frost(x, severity=5):
 
 def generate_flickr30k_c_datasets(method,current_severity):
     print("start %s"%(method.__name__))
-    os.mkdir("Filckr30K_C_%s_%s/"%(method.__name__,current_severity))
+    os.mkdir("Flickr30K_IP_%s_%s/"%(method.__name__,current_severity))
     i=0
-    savepath = "/home/ubuntu/Datasets/Flickr30K/Filckr30K_C_%s_%s/"%(method.__name__,current_severity)
+    savepath = "./Filckr30K_IP_%s_%s/"%(method.__name__,current_severity)
     for imgpath in imglist:
         imgname= os.path.splitext(os.path.basename(imgpath))[0]
         #print(imgname)
@@ -538,8 +538,8 @@ def generate_flickr30k_c_datasets(method,current_severity):
     print("%s completed"%(method.__name__))
 
 
-#method_chunk = [gaussian_noise,shot_noise,impulse_noise,defocus_blur,zoom_blur,fog,frost,snow,contrast,
-#                brightness,pixelate,elastic_transform,glass_blur,motion_blur,jpeg_compression]
+method_chunk = [gaussian_noise,shot_noise,impulse_noise,speckle_noise,defocus_blur,glass_blur,zoom_blur,motion_blur,
+                fog,frost,snow,contrast,brightness,pixelate,elastic_transform,jpeg_compression]
 
 method_chunk = [frost]
 
