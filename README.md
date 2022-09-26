@@ -14,7 +14,7 @@ pip install -e .
 cd ..
 ```
 
-## Download the Flickr30K and COCO datasets
+## Download the datasets
 
 The datasets can be downloaded from the original website:
 
@@ -22,11 +22,19 @@ Flickr30K: https://shannon.cs.illinois.edu/DenotationGraph/
 
 COCO: https://cocodataset.org/#home
 
-Or can be downloaded from google drive:
+NLVR2: https://lil.nlp.cornell.edu/nlvr/
 
-Flickr30K: 
+SNLI-VE: https://github.com/necla-ml/SNLI-VE
 
-COCO:
+Or the test data can be downloaded from google drive:
+
+Flcikr30K: [test](https://drive.google.com/file/d/1UfoHywRWYgiE6NHh398yMQTzqKllvIZR/view?usp=sharing)
+
+COCO: [test](https://drive.google.com/file/d/1zPA3yiB3sXXdjLUV0bPkGqOX840MXoGH/view?usp=sharing)
+
+NLVR2: [dev](https://drive.google.com/file/d/10qRZP65Lhkww_Be5XLLM2AHsntgglwLN/view?usp=sharing), [test1](https://drive.google.com/file/d/1RhXAumgH_QGZa29BWqcqC19-cKpJf9fm/view?usp=sharing)
+
+SNLI-VE: [val](https://drive.google.com/file/d/14l1XdsFnpJcY7OOixL0xUqERc5QLefnI/view?usp=sharing)，[test](https://drive.google.com/file/d/1NyXK-Vw1UDQiZ-APqE5C92XI6Ip_HWMW/view?usp=sharing)
 
 
 ## Generate Flickr30K-IP dataset
