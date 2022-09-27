@@ -1,22 +1,16 @@
 # MM_Robustness_Benchmark
 
-The code for generating multimodal robustness evaluation datasets
+The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reseaning, and visual entailment.
 
 ## Installation
 
 ```
-cd image_perturbation/imagenet_c/
-```
-```
-pip install -e .
-```
-```
-cd ..
+./install.sh
 ```
 
-## Download the datasets
+## Datasets
 
-The datasets can be downloaded from the original website:
+The original datasets can be downloaded from the original website:
 
 Flickr30K: https://shannon.cs.illinois.edu/DenotationGraph/
 
@@ -26,7 +20,7 @@ NLVR2: https://lil.nlp.cornell.edu/nlvr/
 
 SNLI-VE: https://github.com/necla-ml/SNLI-VE
 
-Or the test data can be downloaded from google drive:
+The unperturbed test/val image data can also be downloaded from google drive: 
 
 Flcikr30K: [test](https://drive.google.com/file/d/1UfoHywRWYgiE6NHh398yMQTzqKllvIZR/view?usp=sharing)
 
@@ -36,47 +30,39 @@ NLVR2: [dev](https://drive.google.com/file/d/10qRZP65Lhkww_Be5XLLM2AHsntgglwLN/v
 
 SNLI-VE: [val](https://drive.google.com/file/d/14l1XdsFnpJcY7OOixL0xUqERc5QLefnI/view?usp=sharing)，[test](https://drive.google.com/file/d/1NyXK-Vw1UDQiZ-APqE5C92XI6Ip_HWMW/view?usp=sharing)
 
+The unperturbed test/val text data can be found under "./original_annotation"
 
-## Generate Flickr30K-IP dataset
+The unperturbed test/val image data can also be downloaded from google drive: [TP-annotations](https://drive.google.com/file/d/1rTmYOasXACXm1PGcptOEDmuKqE6pQiPW/view?usp=sharing)
+
+
+## Generate image perturbation (IP) dataset
+
+Due to the size of the perturbed data, we didn't provide the perturbed images, but they can be generated easily with the following command:
+
 ```
-cd Image_perturbation
-```
-Download the image_perturbation/flickr30k_images_test.tar.gz file which contains the 1000 Flickr30K test images.
-```
-tar -zxvf flickr30k_images_test.tar.gz
+python perturb_Flickr30K_IP.py  
 ```
 ```
-python perturbated_data_Flickr30K.py to generate all the perturbated data for 5 severity levels and 15 pertubation strategies. 
+python perturbd_COCO_IP.py 
+```
+```
+python perturb_NLVR_IP.py 
+```
+```
+python perturb_VE_IP.py 
 ```
 
-## Generate COCO-IP dataset
+## Generate text perturbation (TP) dataset
 
-Download the image_perturbation/coco_images_test.tar.gz file which contains the 5000 COCO test images.
 ```
-tar -zxvf coco_images_test.tar.gz
-```
-```
-python perturbated_data_COCO.py to generate all the perturbated data for 5 severity levels and 15 pertubation strategies. 
-```
-
-## Generate Flickr30K-TP dataset
-```
-cd text_perturbation/eda_nlp
+python perturb_Flickr30K_TP.py  
 ```
 ```
-python run_text_aug_f30k_v2.py
-```
-The script will produce 5 level of each perturbation method.
-
-The generated files can also be found under './f30k_eda'.
-
-## Generate COCO-TP dataset
-```
-cd text_perturbation/eda_nlp
+python perturbd_COCO_TP.py 
 ```
 ```
-python run_text_aug_coco_v2.py
+python perturb_NLVR_TP.py 
 ```
-The script will produce 5 level of each perturbation method. 
-
-The generated files can also be found under './coco_eda'.
+```
+python perturb_VE_TP.py 
+```
