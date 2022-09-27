@@ -576,3 +576,10 @@ for method in method_chunk:
         print("current_severity:",current_severity)
         generate_coco_c_datasets(method,current_severity)
 
+for tmp in severity_chunk:
+    current_severity = tmp
+    current_alpha = current_severity*0.2
+    print("current_severity:",current_severity)
+    os.system("python stylize.py --content-dir='./coco-images-test/' --output-dir='./COCO_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    print("finish stylize %s"%tmp)
+

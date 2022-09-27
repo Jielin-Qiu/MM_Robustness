@@ -629,6 +629,23 @@ for method in method_chunk:
         generate_nlvr_c_datasets_test(method,current_severity)
 
 
+for tmp in severity_chunk:
+    current_severity = tmp
+    current_alpha = current_severity*0.2
+    print("current_severity:",current_severity)
+    os.system("python stylize.py --content-dir='./nlvr_test1/' --output-dir='./nlvr/test1-IP/nlvr_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    print("finish stylize %s"%tmp)
+
+
+for tmp in severity_chunk:
+    current_severity = tmp
+    current_alpha = current_severity*0.2
+    print("current_severity:",current_severity)
+    os.system("python stylize.py --content-dir='./nlvr_dev/' --output-dir='./nlvr/dev-IP/nlvr_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    print("finish stylize %s"%tmp)
+
+
+
 
 
 

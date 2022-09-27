@@ -593,3 +593,17 @@ for method in method_chunk:
         print("current_severity:",current_severity)
         generate_ve_c_datasets_test(method,current_severity)
 
+for tmp in severity_chunk:
+    current_severity = tmp
+    current_alpha = current_severity*0.2
+    print("current_severity:",current_severity)
+    os.system("python stylize.py --content-dir='./ve-val-images/' --output-dir='./ve_IP_val/ve_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    print("finish stylize %s"%tmp)
+
+for tmp in severity_chunk:
+    current_severity = tmp
+    current_alpha = current_severity*0.2
+    print("current_severity:",current_severity)
+    os.system("python stylize.py --content-dir='./ve-test-images/' --output-dir='./ve_IP_test/ve_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    print("finish stylize %s"%tmp)
+
