@@ -22,7 +22,7 @@ back_translation_aug = naw.BackTranslationAug(
     to_model_name='facebook/wmt19-de-en'
 )
 
-rate_chunk = [1]    
+rate_chunk = [1,2,3,4,5,6,7]
 
 def perturb_back_trans_json(annotation):
     
@@ -41,19 +41,27 @@ def perturb_back_trans_json(annotation):
 for rate in rate_chunk:
     
     method = str('back_trans')   
-    directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate)
+    directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_back_trans_json(annotation)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
-            
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = perturb_back_trans_json(annotation)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
     print("finish %s"%(method))
 
 
@@ -123,17 +131,25 @@ for rate in char_rate_chunk:
     
     method = str('KeyboardAug')
     print("Start %s %s"%(method, rate))
-    directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate)
+    directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_KeyboardAug_json(annotation, rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+        
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = perturb_KeyboardAug_json(annotation, rate)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -143,17 +159,25 @@ for rate in char_rate_chunk:
     
     method = str('OcrAug')   
     print("Start %s %s"%(method, rate))
-    directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate)
+    directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_OcrAug_json(annotation, rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = perturb_OcrAug_json(annotation, rate)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -167,18 +191,27 @@ for action in action_chunk:
         
         method = str('RandomCharAug_')+ action   
         print("Start %s %s"%(method, rate))
-        directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate)
+        directory = "./annotation_%s/%s/"%(method,rate)
         if not os.path.exists(directory):
             os.makedirs(directory)
-        os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-        os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
+        os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
         
-        annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+        #test
+        annotation = json.load(open('./original_annotation/ve_test.json','r'))
         print(len(annotation))
         new_annotation = perturb_RandomCharAug_json(annotation, action, rate)
         
-        with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
             json.dump(new_annotation, f)
+        
+        #val
+        annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+        print(len(annotation))
+        new_annotation = perturb_RandomCharAug_json(annotation, action, rate)
+        
+        with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+            json.dump(new_annotation, f)
+        
         print("finish %s"%(method))
 
 
@@ -223,17 +256,26 @@ for rate in style_rate_chunk:
     method = str('formal')  
     print("Start %s %s"%(method, rate))
     style_value = 0
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
-            
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = text_style_perturb(annotation, method, style_value)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+
+    
     print("finish %s"%(method))
 
 
@@ -242,17 +284,25 @@ for rate in style_rate_chunk:
     method = str('casual') 
     print("Start %s %s"%(method, rate))
     style_value = 1
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
-            
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = text_style_perturb(annotation, method, style_value)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
     print("finish %s"%(method))
     
 for rate in style_rate_chunk:
@@ -260,17 +310,25 @@ for rate in style_rate_chunk:
     method = str('passive')   
     print("Start %s %s"%(method, rate))
     style_value = 2
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    
+    #test
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
-            
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = text_style_perturb(annotation, method, style_value)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
     print("finish %s"%(method))
     
 for rate in style_rate_chunk:
@@ -278,17 +336,26 @@ for rate in style_rate_chunk:
     method = str('active') 
     print("Start %s %s"%(method, rate))
     style_value = 3
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
-        
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))
+    
+    #test    
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
-            
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = text_style_perturb(annotation, method, style_value)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
     print("finish %s"%(method))
     
 
@@ -444,38 +511,55 @@ rate_chunk = [1,2,3,4,5,6,7]
 for rate in rate_chunk:
     
     method = str('ip')    
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
         
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    print(len(annotation))
+    new_annotation = insert_punc(annotation,ratio=current_rate)
+ 
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
+    #val 
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = insert_punc(annotation,ratio=current_rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
+    
+    print("finish %s %s"%(method,current_rate))
 
 
 #sr    
 for rate in rate_chunk:
     
     method = str('sr')    
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))   
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     
     ##test.json
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=current_rate, alpha_ri=0.0, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
+    
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = eda_perturb(method, annotation,alpha_sr=current_rate, alpha_ri=0.0, alpha_rs=0.0, p_rd=0.0, num_aug=1)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+    
     
             
     print("finish %s %s"%(method,current_rate))
@@ -486,17 +570,25 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('ri')    
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))    
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))    
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=current_rate, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+        
+    #val
+    nnotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=current_rate, alpha_rs=0.0, p_rd=0.0, num_aug=1)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -506,18 +598,25 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('rs')    
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))   
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     
     ##test.json
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=current_rate, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+        
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=current_rate, p_rd=0.0, num_aug=1)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -527,17 +626,24 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('rd')    
-    #os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/ve_dev.json /home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_dev.json"%(method,rate))   
+    #os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/ve_test.json','r'))
+    annotation = json.load(open('./original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=0.0, p_rd=current_rate, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_all/annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/ve_test.json'%(method,rate), 'w') as f:
+        json.dump(new_annotation, f)
+        
+    #val
+    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    print(len(annotation))
+    new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=0.0, p_rd=current_rate, num_aug=1)
+        
+    with open('./annotation_%s/%s/ve_dev.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))

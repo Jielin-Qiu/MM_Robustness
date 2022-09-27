@@ -130,17 +130,17 @@ char_rate_chunk = [1,2,3,4,5,6,7]
 for rate in char_rate_chunk:
     
     method = str('KeyboardAug')   
-    directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate)
+    directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_KeyboardAug_json(annotation, rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -149,17 +149,17 @@ for rate in char_rate_chunk:
 for rate in char_rate_chunk:
     
     method = str('OcrAug')   
-    directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate)
+    directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_OcrAug_json(annotation, rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -172,17 +172,17 @@ for action in action_chunk:
     for rate in char_rate_chunk:
         
         method = str('RandomCharAug_')+ action   
-        directory = "/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate)
+        directory = "./annotation_%s/%s/"%(method,rate)
         if not os.path.exists(directory):
             os.makedirs(directory)
-        os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-        os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+        os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+        os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-        annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+        annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
         print(len(annotation))
         new_annotation = perturb_RandomCharAug_json(annotation, action, rate)
         
-        with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+        with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
             json.dump(new_annotation, f)
         print("finish %s"%(method))
 
@@ -247,15 +247,15 @@ for rate in style_rate_chunk:
     
     method = str('formal')   
     style_value = 0
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -265,15 +265,15 @@ for rate in style_rate_chunk:
     
     method = str('casual')   
     style_value = 1
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -282,15 +282,15 @@ for rate in style_rate_chunk:
     
     method = str('passive')   
     style_value = 2
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -299,15 +299,15 @@ for rate in style_rate_chunk:
     
     method = str('active')   
     style_value = 3
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s"%(method))
@@ -418,16 +418,16 @@ rate_chunk = [6,7]
 for rate in rate_chunk:
     
     method = str('ip')    
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
     current_rate = 0.05*rate
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = insert_punc(annotation,ratio=current_rate)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -437,16 +437,16 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('sr')    
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
     current_rate = 0.05*rate
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=current_rate, alpha_ri=0.0, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -457,16 +457,16 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('ri')    
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
     current_rate = 0.05*rate
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=current_rate, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -476,16 +476,16 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('rs')    
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
     current_rate = 0.05*rate
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=current_rate, p_rd=0.0, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
@@ -495,16 +495,16 @@ for rate in rate_chunk:
 for rate in rate_chunk:
     
     method = str('rd')    
-    os.mkdir("/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_train.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_train.json"%(method,rate))
-    os.system("cp -r /home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_val.json /home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_val.json"%(method,rate))
+    os.mkdir("./annotation_%s/%s/"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_train.json ./annotation_%s/%s/flickr30k_train.json"%(method,rate))
+    os.system("cp -r ./original_annotation/flickr30k_val.json ./annotation_%s/%s/flickr30k_val.json"%(method,rate))
         
     current_rate = 0.05*rate
-    annotation = json.load(open('/home/ubuntu/jielin_disk_4/BLIP/annotation/flickr30k_test.json','r'))
+    annotation = json.load(open('./original_annotation/flickr30k_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=0.0, p_rd=current_rate, num_aug=1)
         
-    with open('/home/ubuntu/jielin_disk_4/BLIP/annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
+    with open('./annotation_%s/%s/flickr30k_test.json'%(method,rate), 'w') as f:
         json.dump(new_annotation, f)
             
     print("finish %s %s"%(method,current_rate))
