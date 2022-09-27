@@ -16,7 +16,7 @@ from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 parser = argparse.ArgumentParser(description='This script applies the AdaIN style transfer method to arbitrary datasets.')
-parser.add_argument('--content-dir', type=str, default = '/home/ubuntu/Datasets/Flickr30K/flickr30k-images-test/',
+parser.add_argument('--content-dir', type=str, default = './flickr30k-images-test/',
                     help='Directory path to a batch of content images')
 parser.add_argument('--style-dir', type=str, default = './style-images/train/',
                     help='Directory path to a batch of style images')
