@@ -7,4 +7,5 @@ pip install -e .
 cd ..
 cd ..
 pip install -r requirements.txt
+pip install -U nltk
 
