@@ -24,7 +24,7 @@ The code for generating multimodal robustness evaluation datasets for downstream
   - SNLI-VE: [val](https://drive.google.com/file/d/14l1XdsFnpJcY7OOixL0xUqERc5QLefnI/view?usp=sharing)，[test](https://drive.google.com/file/d/1NyXK-Vw1UDQiZ-APqE5C92XI6Ip_HWMW/view?usp=sharing)
 
 - The unperturbed test/val text data can be found under `./original_annotation` 
-- The unperturbed test/val image data can also be downloaded from google drive: [TP-annotations](https://drive.google.com/file/d/1rTmYOasXACXm1PGcptOEDmuKqE6pQiPW/view?usp=sharing)
+- The unperturbed test/val text data can also be downloaded from google drive: [TP-annotations](https://drive.google.com/file/d/1rTmYOasXACXm1PGcptOEDmuKqE6pQiPW/view?usp=sharing)
 
 
 ## Generate image perturbation (IP) dataset
