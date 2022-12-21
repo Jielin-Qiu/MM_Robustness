@@ -60,3 +60,17 @@ python perturb_NLVR_TP.py
 ```
 python perturb_VE_TP.py 
 ```
+
+## Citation
+
+If you feel our code or models helps in your research, kindly cite our papers:
+
+```
+@inproceedings{Qiu2022AreMM,
+  title={Are Multimodal Models Robust to Image and Text Perturbations?},
+  author={Jielin Qiu and Yi Zhu and Xingjian Shi and Florian Wenzel and Zhiqiang Tang and Ding Zhao and Bo Li and Mu Li},
+  journal={arXiv preprint arXiv:2212.08044},
+  year={2022}
+}
+```
+
