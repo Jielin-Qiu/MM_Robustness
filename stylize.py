@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Acknowledgement: Codebase is developted base on https://github.com/bethgelab/stylize-datasets
+
 import os
 import argparse
 from function import adaptive_instance_normalization

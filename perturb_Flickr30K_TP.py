@@ -16,10 +16,6 @@ import nlpaug.augmenter.sentence as nas
 import random
 random.seed(1234)
 
-#os.mkdir("f30k_eda")
-#os.mkdir("f30k_eda_score")
-#os.mkdir("f30k_eda_times")
-
 
 back_translation_aug = naw.BackTranslationAug(
     from_model_name='facebook/wmt19-en-de', 
