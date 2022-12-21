@@ -73,4 +73,10 @@ If you feel our code or models helps in your research, kindly cite our papers:
   year={2022}
 }
 ```
-
+```
+@inproceedings{qiu2022benchmarking,
+  title={Benchmarking Robustness under Distribution Shift of Multimodal Image-Text Models},
+  author={Qiu, Jielin and Zhu, Yi and Shi, Xingjian and Tang, Zhiqiang and Zhao, Ding and Li, Bo and Li, Mu},
+  booktitle={NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications}
+}
+```
