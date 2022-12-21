@@ -1,0 +1,5000 @@
+. motorcycle. person. bicycle
+. person. orange. broccoli. bowl. keyboard
+. bicycle. train. person. parking meter
+. knife. hair drier. broccoli
+. keyboard. apple. orange
+. toilet. keyboard. apple. orange
+. oven
+. oven
+. bicycle. car. person. fire hydrant. handbag. truck
+. oven
+. knife. oven
+. snowboard. person
+. car. motorcycle. person. traffic light. handbag. truck
+. motorcycle. person. tie. knife
+. sink. toilet. tv
+. broccoli. donut
+. carrot
+. motorcycle. knife
+. person. airplane. sports ball
+. airplane. truck
+. airplane
+. cow. motorcycle. person
+. horse. person. bird. handbag. skis
+. traffic light
+. knife. keyboard. bird. toilet
+. person. handbag. bicycle. scissors
+. cow. bird
+. cat
+. boat. cat
+. backpack
+. fire hydrant
+. cat. hot dog. laptop
+. laptop
+. cat
+None
+. cow
+. person. baseball glove. knife
+None
+. elephant. toilet. person. tie. keyboard
+. knife. bicycle. motorcycle. person. broccoli. hot dog. sports ball. donut. elephant
+. dog. person. mouse. carrot
+. dog. toilet. keyboard
+. elephant
+. elephant
+. person. snowboard
+. person. bear
+. bear
+. boat
+. car. boat. person
+. bear
+. sports ball. skis. person
+. person. car. sports ball
+. person. sports ball
+. person. sports ball
+. horse
+. tie. person
+. horse. cake. broccoli
+. person. kite
+. horse. handbag. person
+. giraffe
+. giraffe
+. giraffe. cat
+. giraffe
+. sheep
+. sheep. person. car
+. sheep. bus. person. truck
+. sheep. person
+. broccoli. carrot. donut
+. skateboard. bottle. person
+. person. bird. carrot. banana
+. person. carrot
+. skateboard. person. bottle
+. toilet. keyboard. apple. orange. potted plant. donut. banana
+. person. baseball bat
+. person. orange. broccoli. carrot
+. person. wine glass. skis. bicycle
+. person. wine glass. bicycle
+. car. person. wine glass. handbag
+. person. baseball glove
+. person. banana. toilet. keyboard. pizza
+. baseball glove. person. toilet
+. bed
+. pizza. person. bird
+. toilet. keyboard. bed. dining table. couch
+. pizza. banana. apple. sandwich. orange. keyboard
+. banana. keyboard. toilet. couch
+. bed
+. skateboard. person
+. person. cup
+. skateboard. person
+. person. cup
+. skateboard. car. person. truck
+. dining table. person
+. person. dining table. toilet
+. skateboard. person
+. keyboard. person. banana. apple. orange. potted plant. knife. sandwich
+. mouse. person
+. person. snowboard. mouse
+. potted plant. keyboard
+. fork
+. toilet. person. potted plant
+. fork. toilet. person
+. knife. banana. potted plant. keyboard
+. tv. clock
+. clock. person
+. toilet. tv. keyboard. bird. hot dog. laptop
+. sink. toilet. person. book. vase. knife
+. person. surfboard. cup
+. person. surfboard
+. person. surfboard. skis
+. surfboard
+. surfboard. car. truck
+. person. tennis racket. bottle
+. tennis racket. bottle. person
+. person. tennis racket. bottle
+. person. tennis racket
+. tennis racket. bottle. person. bird. toilet
+. person. tennis racket
+. apple. potted plant. hair drier. person. orange
+. skateboard. person. fork
+. skateboard. person. fork
+. snowboard. skis. person. handbag. scissors
+. banana
+. scissors. keyboard. person. banana
+. keyboard. person
+. dog. person
+. person
+. person
+. person. car
+. laptop
+. laptop
+. laptop. toilet. person
+. person
+. knife. toilet. keyboard. person. banana. sandwich. potted plant. apple. bird
+. person. bird. bowl. skis. knife
+. bowl. banana. keyboard. person. knife. toilet. sandwich
+. person. bowl
+. snowboard. handbag. sports ball. person. skis
+. knife. orange. broccoli. hot dog. keyboard
+. horse. knife. person. broccoli. teddy bear. hair drier. banana
+. person. orange. broccoli. hair drier
+. knife. toilet. person. bowl. keyboard
+. horse. person. sandwich. banana. apple. orange
+. knife. sandwich. broccoli. orange
+. person. car. wine glass. bicycle. truck
+. bicycle. person
+. oven
+. oven. mouse
+. knife. oven
+. car. person. motorcycle
+. oven
+. oven. person
+. car. motorcycle. person. parking meter
+. airplane. person. skis
+. airplane
+. airplane
+. airplane
+. airplane
+. elephant. person. cow. cup
+. backpack
+. backpack
+. traffic light
+. car. traffic light. laptop
+. backpack
+. backpack
+. bus. person. backpack. truck
+. fire hydrant. bird
+. cow
+. boat. person. bird
+. backpack
+. cat. car
+. backpack
+. backpack. giraffe
+. traffic light
+. backpack
+. backpack
+. cow
+. cow
+. cow. elephant. cat
+. elephant. truck
+. car. train. person. traffic light
+. train
+. parking meter
+. train. person
+. parking meter
+. dog. sports ball
+. dog
+. car. truck. person
+. snowboard. person
+. horse. sink. snowboard
+. boat
+. person. boat
+. snowboard. person
+. tie. person. skis
+. dog
+. dog. person
+. dog. tv. refrigerator. person
+. person. bear
+. horse. kite
+. horse. kite
+. sports ball
+. person. sports ball
+. horse. kite
+. cat. giraffe
+. person. kite
+. giraffe
+. giraffe
+. giraffe
+. sheep
+. sheep. person. truck. skis
+. carrot. person
+. person
+. person. baseball bat
+. donut
+. donut
+. person. baseball bat
+. skateboard. person. bottle
+. person. baseball bat
+. person. bird. wine glass. handbag
+. person. baseball bat
+. person. baseball bat. baseball glove
+. bicycle. wine glass. person
+. donut. chair. broccoli
+. knife. toilet. keyboard. bowl. apple. sandwich. orange. broccoli. chair. pizza
+. person. handbag. baseball bat
+. person. couch
+. person. wine glass
+. banana. bed
+. sandwich. broccoli
+. orange. banana. dining table. keyboard
+. sandwich. dining table. book. apple
+. dog. person. mouse
+. mouse. person
+. person. orange. dining table. banana. toilet. keyboard. knife
+. keyboard. person. dining table. broccoli
+. person. banana. dining table
+. person. dining table
+. person. cup
+. cup. person
+. potted plant
+. person. fork
+. banana. apple. sandwich. potted plant. keyboard. bowl
+. person. potted plant. refrigerator. keyboard. banana
+. scissors. keyboard. person. banana. apple. potted plant
+. person. fork
+. tv. clock. dog. toilet
+. laptop. tv. person. clock. toilet
+. person. clock. tv
+. sink. scissors. refrigerator. book. vase
+. sink. toilet. tv. keyboard. carrot. refrigerator. clock. broccoli
+. person. surfboard. car. horse
+. skateboard. person. tennis racket. bottle
+. skateboard. person. tennis racket. bottle
+. person
+. tv. person. refrigerator
+. bowl. refrigerator. toilet. vase. keyboard
+. scissors. person
+. tv. person. scissors. refrigerator
+. person. hair drier
+. person
+. knife. person. banana. chair. laptop. keyboard
+. chair. person
+. sink. toilet. keyboard. person. banana. apple
+. knife. banana. broccoli. hair drier. donut. hot dog
+. knife. tv. toilet. keyboard. banana. refrigerator. book. clock
+. toilet. hair drier. teddy bear
+. oven
+. oven
+. oven
+. knife. skis
+. knife
+. dog. knife
+. horse. car. person
+. car. motorcycle. bus. person
+. oven
+. oven
+. dog. oven
+. dog
+. donut
+. airplane
+. airplane
+. airplane
+. cat. backpack
+. airplane
+. airplane
+. backpack
+. traffic light. fire hydrant
+. bird
+. car. traffic light
+. cow. truck. traffic light. elephant
+. cow. person
+. cat
+. boat. person
+. bear. person
+. mouse. person. banana
+. train
+. cat
+. cat
+None
+. toilet. person. sandwich. broccoli. dining table. keyboard. apple
+. car. person. bus
+. parking meter. car
+. train. person
+. traffic light. person. train
+. train. traffic light
+. dog. toilet
+. elephant
+. boat
+. bear
+. bear
+. bear
+. bear
+. bear
+. person. handbag. skis. sports ball
+. person. sports ball
+. bear
+. tie. car. person. skis
+. bear
+. sports ball. handbag. knife
+. horse. toilet. person
+. zebra
+. horse. person
+. person. kite
+. horse
+. sheep
+. giraffe
+. giraffe
+. sheep. person
+. sheep. car. person. truck
+. sheep. person
+. hot dog. donut. hair drier
+. person. bicycle. skateboard. bottle
+. toilet. handbag. person. bird
+. baseball bat. person
+. carrot. person
+. orange. cake. chair
+. cake
+. horse. person. wine glass
+. person. handbag. baseball bat
+. knife. cake. broccoli
+. bus. person. wine glass
+. banana. sandwich. broccoli. cake. keyboard
+. person. chair. skis. cake
+. pizza. banana. orange
+. broccoli. chair. keyboard. hair drier
+. sandwich. chair. pizza
+. person. baseball bat
+. person. couch
+. bed
+. toilet. keyboard. person. bed
+. pizza. banana. sandwich. broccoli. knife. potted plant. keyboard
+. bed
+. skateboard. person
+. tie. cup
+. dining table. banana
+. dining table
+. mouse. toilet
+. mouse. person
+. mouse
+. potted plant
+. banana. potted plant. keyboard
+. toilet. person. fork
+. person. clock
+. clock
+. clock
+. tv. person
+. person
+. vase
+. person. fork
+. person. surfboard
+. person. surfboard
+. person. tennis racket
+. person
+. potted plant
+. skateboard. toilet. person. fork
+. knife. scissors. refrigerator. person
+. snowboard. person. bowl
+. tv. snowboard
+. snowboard
+. knife. person. refrigerator
+. person. refrigerator. banana
+. person. scissors
+. chair
+. laptop. person. scissors. toilet
+. scissors. person
+. person. handbag
+. person. tv
+. apple. broccoli. cake
+. cake
+. cake. cat
+. sink. keyboard. person
+. keyboard
+. person
+. banana. keyboard
+. knife. toilet. person. bowl. apple. sandwich. keyboard. skis. banana. snowboard
+. orange. hair drier. knife
+. knife. person. hair drier. banana
+. apple. orange. hair drier
+. orange. hair drier. banana
+. knife. oven
+. oven
+. bicycle. tie. person. motorcycle
+. sink
+. laptop. oven
+. oven
+. knife. banana
+. knife. oven
+. oven
+. oven
+. person. oven. banana. hair drier
+. oven
+. oven
+. oven
+. oven
+. oven
+. oven
+. oven
+. car. motorcycle. person. truck
+. motorcycle. person. bicycle
+. broccoli. carrot. keyboard
+. carrot. banana. donut
+. sink. mouse
+. backpack
+. car. giraffe. backpack
+. airplane. person
+. airplane. person. car
+. airplane. person. truck
+. bird
+. backpack
+. car. traffic light
+. car. fire hydrant
+. cow
+. person. bear. bird
+. cat. tie
+. car
+. backpack
+. person. snowboard
+. person. train
+. train
+. parking meter
+. motorcycle. parking meter
+. bench
+. bird. skis. truck. person
+. dog
+. truck
+. elephant. person. banana
+. person. boat
+. bear
+. person. tie. keyboard
+. boat
+. tie. toilet. person. sports ball
+. tie. person
+. toilet. keyboard. bicycle. person. tie. skis
+. baseball bat
+. horse. toilet. keyboard
+. kite
+. sheep. person
+. giraffe
+. sheep
+. sheep. hot dog. donut
+. skateboard. tennis racket. bottle. person
+. cake. donut
+. sink. knife. scissors. refrigerator. toilet. clock. keyboard
+. skis. person. hot dog. donut
+. apple. cake
+. person. wine glass
+. couch. pizza. chair. person
+. banana. hot dog. donut. chair. broccoli. teddy bear
+. person. wine glass
+. person. sandwich. dining table. keyboard
+. person. wine glass
+. car. traffic light. person. wine glass
+. knife. person. skis. bird
+. person. bed
+. person. bed
+. person. baseball glove. handbag
+. bed
+. dining table. keyboard
+. pizza. orange. broccoli
+. knife. pizza. banana. apple. sandwich. keyboard
+. person. mouse
+. person. refrigerator. mouse
+. mouse
+. mouse. toilet. refrigerator
+. knife. car. person. potted plant. keyboard. toilet
+. sink. vase
+. sink. toilet. person. bowl. mouse. vase
+. person. fork
+. skateboard. person. fork. toilet. tv
+. person
+. clock. vase
+. vase. car. truck. person
+. sink. person. tv. laptop
+. clock. dog. tv
+. tv. person
+. tv. person. clock
+. toilet. keyboard. broccoli
+. toilet. person. clock. skis
+. tv. clock. skis. knife. bowl. laptop. toilet. person
+. tv. person. clock
+. clock. person
+. knife. tv. scissors. bowl. handbag. skis
+. book. vase
+. scissors. toilet. person. keyboard. banana
+. banana
+. person. tennis racket. handbag. bird
+. tennis racket. person. bird. bottle. toilet
+. potted plant
+. toilet. banana. keyboard
+. toilet
+. person. refrigerator. book. banana
+. refrigerator. banana
+. banana. tv. toilet
+. motorcycle. person. tie. scissors. truck
+. broccoli. teddy bear
+. person. banana. broccoli. sandwich
+. banana. keyboard
+. keyboard. banana. orange
+. orange
+. orange
+. orange. keyboard. toilet
+. laptop
+. laptop. person. knife
+. person. bowl
+. toilet. keyboard. knife. hair drier
+. hair drier. banana. person
+. dog. bicycle
+. dog
+. dog
+. oven
+. parking meter. car. person
+. knife. oven. banana
+. dog. knife
+. sheep. person. car. truck
+. oven
+. motorcycle. person
+. car. motorcycle. person. bicycle
+. person. tv
+. cat. person. apple. sandwich. banana. pizza. keyboard. toilet
+. traffic light. car. truck
+. car. traffic light. person
+. traffic light
+. person. backpack
+. cow
+. cat. backpack
+. backpack
+. bicycle. car. bus. person. truck
+. bird
+. fire hydrant. person. car. skis
+. cat
+. train
+. train. person. skis
+. scissors
+. train
+. car. truck. traffic light. fire hydrant
+. car. parking meter
+. parking meter. car
+. person. bench. bicycle
+. car. truck. person. traffic light. tie. bus
+. truck. sports ball
+. horse. elephant
+. cow. elephant
+. truck
+. truck
+. dog. toilet. refrigerator
+. truck
+. tv. person. dog
+. elephant. car
+. truck. car
+. elephant
+. sheep. elephant. person
+. elephant. person
+. horse
+. tie. person. handbag. car. skis
+. bear
+. person. bear. hot dog. skis
+. person. bear
+. zebra
+. truck. person. handbag. sports ball
+. zebra
+. zebra. kite
+. horse. tv
+. horse. tv. clock. skis
+. person. kite
+. horse. person. banana
+. banana. horse
+. sheep
+. giraffe
+. sheep
+. baseball glove. person. baseball bat
+. carrot. donut. hot dog. broccoli
+. skateboard. bottle. person
+. tie. person. carrot. skis. keyboard
+. carrot. hot dog
+. bird. tennis racket. bottle. person
+. person. baseball bat
+. cake. dining table
+. cake
+. broccoli. cake. chair
+. person. baseball bat
+. broccoli. cake
+. person. baseball bat. handbag
+. broccoli. cake. chair
+. car. person. wine glass
+. person. baseball glove
+. person. baseball glove. handbag
+. keyboard. apple. sandwich. orange. couch
+. broccoli. couch
+. bed
+. pizza. person
+. snowboard. skateboard. person
+. cup. skis. person
+. toilet. keyboard. person. pizza. car. scissors. couch
+. keyboard. sandwich. person. donut. dining table
+. person. mouse
+. person. cup. handbag
+. snowboard. toilet. person. dining table
+. car. person. bird. potted plant. knife
+. potted plant
+. knife. toilet. banana. skis. tv
+. orange. broccoli. potted plant. person. keyboard
+. person. clock. tv
+. tv. laptop. person. knife. clock. mouse
+. clock. person
+. toilet. tv. keyboard. person. snowboard
+. laptop. tv. broccoli. toilet
+. sink. book. vase
+. car. person. surfboard
+. person. surfboard. handbag
+. person. surfboard
+. person. surfboard. handbag
+. tennis racket. bottle. person
+. person. tennis racket. bottle
+. toilet. person. tennis racket. car. skateboard. knife. motorcycle. handbag. bottle
+. potted plant. sandwich
+. potted plant. keyboard
+. knife. bowl. banana. potted plant. toilet. person. keyboard
+. person. refrigerator. book. banana
+. person. toilet
+. scissors. person. refrigerator
+. refrigerator
+. hair drier
+. scissors. toilet. person. keyboard. banana
+. car. boat. person. scissors
+. teddy bear. hair drier. laptop
+. knife
+. knife
+. knife. person. skis
+. person
+. person. keyboard
+. bird. person. car. skateboard. toilet
+. person. orange. broccoli. keyboard. donut
+. person. bird. skis
+. knife. person. sandwich. broccoli. bowl. apple. orange
+. person. mouse
+None
+. oven
+. knife. oven
+. car. fire hydrant
+. bicycle. bus. person. car
+. laptop. person. sports ball. toilet
+. person. oven
+. oven
+. motorcycle
+. toilet. refrigerator. book. vase. sink
+. motorcycle. person. traffic light. tennis racket
+. dog. horse
+. laptop. sink. toilet. tv. keyboard
+. sink
+. airplane. person
+. giraffe. backpack
+. backpack
+. bus. person
+. traffic light
+. cow
+. bus. skis. person. handbag
+. car. person
+. parking meter
+. backpack
+. cat
+. car. train. truck. traffic light
+. person
+. cat. person
+. train. person
+. traffic light. fire hydrant
+. toilet. refrigerator. person
+. train
+. train
+. train
+. car. train. traffic light
+. traffic light. person. parking meter
+. horse. handbag
+. dog
+. dog
+. truck. car. person
+. elephant
+. horse. boat. person
+. boat. person. broccoli. carrot
+. snowboard. toilet. person. sink
+. snowboard. person
+. tie. car. person
+. snowboard. person
+. person. bear
+. boat. skateboard
+. tie. person
+. bear. giraffe
+. person. kite
+. sheep
+. sheep. person. handbag
+. sheep
+. sheep. person
+. orange. broccoli. banana. donut. keyboard
+. orange. dining table
+. carrot
+. carrot
+. carrot
+. cake
+. person. bird. wine glass
+. person. baseball bat
+. cake
+. person. baseball bat
+. person. car. handbag. skis. hot dog. traffic light
+. person. wine glass
+. person. baseball bat
+. person. wine glass
+. person. wine glass. bird
+. car. wine glass. person
+. person. wine glass
+. person. couch. toilet
+. tie. person. bird. wine glass. skis. banana
+. toilet. person. wine glass. bird
+. bird. wine glass. person
+. person. wine glass
+. keyboard. banana. cake. bowl. apple. orange. broccoli. toilet. pizza
+. couch. banana
+. baseball glove. person
+. baseball glove. person. handbag. baseball bat
+. person. bed
+. bed. keyboard. broccoli
+. pizza. banana. broccoli. person
+. dining table. person. laptop
+. pizza. person. broccoli
+. cup. person
+. mouse
+. mouse. person
+. mouse. person. laptop. toilet
+. sink. person. mouse
+. person. cup
+. knife. person. banana. potted plant. toilet. keyboard
+. skateboard. person. fork
+. fork. person. toilet
+. potted plant
+. person. fork
+. skateboard. person. fork. toilet
+. person. clock. handbag. tie. skis
+. tv. toilet. keyboard. hair drier. clock
+. scissors. person
+. person. tennis racket. bottle. bird
+. skateboard. person. toilet
+. skateboard. person. fork
+. horse. cat. toilet. person. bird
+. tv
+. toilet. keyboard. person. apple. sandwich. broccoli. banana. couch. bed
+. dog. person. mouse. refrigerator
+. scissors. refrigerator. skis. airplane
+. knife. banana. broccoli. hair drier. sandwich. orange. bowl
+. hair drier
+. tv. person. scissors. toilet
+. scissors. person. elephant. skateboard
+. knife. person. tie
+. knife
+. banana. sandwich. broccoli. keyboard
+. broccoli. keyboard. dining table
+. knife. orange. broccoli. teddy bear
+. person. surfboard
+. knife. toothbrush. hair drier
+. car. bus. person. wine glass. handbag. truck. skis
+. person. banana. hair drier. broccoli
+. bicycle. boat. person
+. horse. bicycle. person. laptop. skis
+. person
+. oven
+. sink. person
+. oven. broccoli
+. broccoli
+. dog. bicycle. car. truck
+. oven
+. dog. keyboard
+. car. motorcycle. person. traffic light
+. motorcycle. person. skis
+. car. motorcycle. person. truck. traffic light
+. train. bird
+. airplane. person. car. truck
+. airplane. person
+. car. person. motorcycle. traffic light
+. cat. backpack
+. horse. cow
+. laptop. airplane. person. truck. boat
+. dog. bird
+. dog. bird
+. person. bear. truck. car. bus
+. person
+. person
+. bird
+. person. bird. backpack
+. person. bird
+. bus. car. person
+. bus
+. car. bus. person. traffic light
+. bus. truck
+. cat. dog
+. cat. hot dog
+. bus. person
+. cat. dining table
+. backpack
+. cat
+. car. traffic light
+. train. person
+. airplane. train
+. parking meter
+. bench
+. car. bench
+. bus. truck. person. tie. handbag
+. cat. boat. tie. person. bird. toilet
+. knife. snowboard. toilet. person. banana
+. snowboard. person. banana
+. tie
+. person. laptop. sports ball
+. knife. person. sports ball. skis
+. handbag. sports ball. person. skis
+. person. bird. kite. banana. truck. car
+. person. kite. bird
+. person. kite
+. mouse
+. giraffe
+. giraffe
+. sheep. person
+. sheep
+. sheep
+. broccoli. cake
+. potted plant. orange. banana
+. cake. chair
+. car. toilet. keyboard. carrot
+. person. baseball bat
+. keyboard. cake
+. person. baseball bat
+. knife. tv. keyboard. bowl. cake
+. hot dog
+. horse. truck. person. chair. skis
+. banana. vase
+. wine glass. person
+. chair. person. knife. cake
+. sandwich. chair
+. couch. apple. broccoli. keyboard. banana
+. person. couch
+. bed
+. person. cup
+. orange. dining table. keyboard
+. person. tv. skis. dining table
+. broccoli. dining table. banana
+. sink. toilet. tv. mouse
+. potted plant. keyboard. person
+. mouse. person
+. person. banana. sandwich. potted plant. keyboard. broccoli. apple
+. person. bowl. banana. apple. sandwich. potted plant. keyboard
+. potted plant
+. laptop. knife. toilet. potted plant. keyboard
+. skateboard. person. fork
+. fork. banana
+. toilet. keyboard. donut
+. knife. person. oven
+. sink. tv. banana. broccoli. refrigerator. dog. clock
+. sink. toilet. tv. boat. banana
+. vase. refrigerator
+. toilet. keyboard. mouse
+. person. boat. surfboard
+. person. surfboard
+. person. surfboard
+. banana. car
+. person. surfboard
+. skateboard. tennis racket. bottle. person
+. knife. toilet. bowl. teddy bear. apple. orange. broccoli. hair drier
+. hair drier. banana. sandwich. orange. toilet
+. toilet. person. skis. keyboard. scissors
+. scissors. person. car
+. banana. teddy bear. hair drier
+. toilet. person. refrigerator. banana. sandwich. keyboard. apple
+. scissors. person
+. person
+. scissors. keyboard
+. scissors. person. motorcycle
+. toilet. teddy bear
+. teddy bear
+. dining table. banana
+. dining table. person. skis
+. person. keyboard
+. keyboard
+. person
+. apple. sandwich. orange. broccoli. banana. keyboard
+. bowl. keyboard. broccoli. dining table
+. bowl. banana. person. broccoli. pizza. keyboard
+. person. surfboard. skis
+. laptop. toilet. keyboard
+. person. hair drier. broccoli. toilet
+. knife
+. oven
+. oven
+None
+. oven
+. oven
+. horse. car. motorcycle
+. airplane
+. orange. broccoli. chair
+. oven. broccoli
+. broccoli
+. car. motorcycle. person
+. motorcycle. person. bicycle
+. motorcycle. airplane. truck
+. airplane
+. car. airplane. person. truck
+. airplane. bus. car. truck
+. airplane. truck
+. airplane
+. car. bird. handbag
+. airplane
+. cow
+. airplane. person. handbag. tie. boat. skis
+. car. airplane. person. truck
+. bus. person. handbag
+. car. bus. person. skis. bird
+. car. bus. person
+. bus. person. bench. laptop. traffic light
+. car. bus. person. truck
+. car. bus. person. truck. handbag. skis
+. cat
+. cat
+. cat
+. cat
+. train. traffic light
+. train. person
+. parking meter
+. truck
+. dog. toilet. keyboard
+. dog
+. horse. boat. person
+. elephant
+. sink. person. snowboard. book. vase. skis. refrigerator. toilet
+. boat. person. tie
+. sports ball
+. person. bear. snowboard
+. car. person. cup
+. giraffe
+. keyboard. dining table. person. hot dog
+. sheep
+. hot dog. donut
+. pizza
+. sink. person
+. person. bottle. skateboard
+. broccoli. cake
+. person. hot dog
+. apple. dining table. keyboard
+. person. wine glass
+. person. wine glass. car
+. person. bird. wine glass
+. banana. couch. keyboard
+. couch. pizza
+. person. bed
+. keyboard. banana. broccoli. bed
+. person. bed
+. zebra. dining table
+. keyboard. banana. donut. person. dining table
+. dining table. keyboard
+. person. cup
+. cup
+. skateboard. person. car
+. knife. mouse. person
+. laptop. mouse
+. person. cup
+. mouse. person
+. person. fork. skateboard
+. clock
+. laptop. sink. toilet. person. clock. tv
+. book. clock. vase. scissors
+. toilet. banana. refrigerator. vase
+. scissors. person. car
+. skateboard. person. fork
+. surfboard. handbag. skis. person
+. person. surfboard. toilet. keyboard
+. surfboard. person
+. skateboard. person. tennis racket
+. person. tennis racket
+. laptop
+. knife. banana
+. truck. handbag. skis. person. bird. toilet
+. scissors. person. skis
+. scissors
+. scissors. person. skis
+. scissors. person. toilet
+None
+. keyboard. apple. broccoli. cake. pizza
+. person. snowboard
+. laptop
+. person
+. apple. broccoli. keyboard. couch
+. person. cake
+. toilet. person. banana. carrot. keyboard
+. person. sandwich. dining table. handbag
+. knife. person. bowl. toilet. keyboard
+. bicycle. car. person. traffic light
+. person. handbag. bicycle. car
+. toilet. hair drier. knife
+. oven
+. knife. person. oven
+. oven. knife
+. sheep. car
+. motorcycle. bus. person. traffic light. car. truck
+. car. bus. traffic light. laptop
+. car. person. cup
+. motorcycle
+. bus. person. skis. car
+. car. motorcycle. truck
+. airplane
+. dog. bird. laptop
+. traffic light
+. traffic light. bicycle
+. horse. person
+. bird
+. cow. car. person. truck
+. car. bus. person. snowboard. skis. scissors
+. bird. boat
+. bus
+. cow. person
+. bicycle. car. bus. traffic light. person
+. fire hydrant
+. fire hydrant
+. bird
+. car. bus. person. truck
+. fire hydrant
+. fire hydrant
+. bus. person. skis
+. backpack
+. cat
+. bear
+. tie. handbag. skis. person
+. train
+. car. train
+. car. train
+. person. car
+. train
+. parking meter
+. train
+. train. person
+. person. car. motorcycle. truck
+. dog. sports ball
+. dog. person. bed
+. horse. dog
+. elephant. truck
+. dog. handbag
+. dog. tv. carrot
+. dog. toilet
+. dog
+. truck
+. horse. person. boat
+. sink. person. snowboard. refrigerator. book. vase. laptop. toilet
+. bear
+. person. snowboard
+. boat. person. bird
+. tie
+. person. bear
+. snowboard. toilet. person. knife. bowl. banana. keyboard
+. skis. person. tie
+. boat
+. tie. person. bear. toilet
+. person. bear
+. sports ball. handbag. skis
+. toilet. sports ball. skis
+. tie. kite. knife. toilet. laptop. keyboard
+. sheep. person
+. person. bottle
+. person. bottle
+. carrot
+. person. bottle
+. carrot. broccoli
+. person. bottle
+. person. hot dog. donut
+. scissors. person. wine glass. handbag
+. person. baseball glove
+. orange. broccoli. cake. chair. apple. toilet. keyboard
+. person. baseball bat
+. person
+. person. wine glass. scissors
+. pizza. keyboard
+. person. cup
+. skateboard. person
+. person. dining table. keyboard. toilet. banana
+. banana. toilet. keyboard. person. apple. orange. dining table. laptop
+. mouse. person. toilet
+. mouse. toilet
+. horse. mouse
+. person. fork
+. potted plant. dog. person. toilet. keyboard
+. toilet. person. fork
+. person. fork
+. skateboard. person. fork
+. potted plant
+. banana. apple. potted plant. sandwich. keyboard
+. keyboard. person
+. knife. tv. keyboard. person. banana. clock. refrigerator. handbag
+. scissors. person
+. tv. toilet. clock
+. surfboard. person
+. surfboard. person. boat
+. car. motorcycle. person. surfboard. truck
+. skateboard. person. tennis racket
+. tennis racket. bottle. person
+. person. bottle
+. person. tennis racket. bird. bottle
+. skateboard. person. fork
+. sink. knife. book. vase
+. vase. laptop
+. scissors
+. knife. person. scissors. skis
+. scissors. traffic light. person. car
+. traffic light
+. toilet. keyboard. person. banana. orange. broccoli. skis. pizza. apple
+. knife. keyboard. person. bowl. laptop. broccoli. toilet
+. knife. person. bowl
+. person. apple. sandwich. banana. broccoli. keyboard. toilet
+. toilet. keyboard. orange. broccoli. bowl. banana. sandwich. dining table
+. laptop. knife. toilet. tv. person. keyboard
+. horse. bicycle
+. broccoli. oven
+. orange. chair. broccoli. keyboard
+. dog. bicycle. car. person. motorcycle
+. motorcycle
+. sheep
+. motorcycle. person. traffic light
+. carrot
+. carrot
+. motorcycle. person
+. airplane. person. handbag. skis. sports ball
+. person. bird. handbag
+. airplane
+. backpack
+. airplane
+. person. backpack
+. person. bird. skis
+. car. person. truck
+. cow. person
+. car. fire hydrant
+. cow
+. bus. person. skis
+. cow. car
+. backpack
+. cow. person. bird. skis. truck. broccoli. car
+. car. boat
+. snowboard. banana. sandwich. person
+. train
+. train
+. train. person. bird. skis
+. train
+. train. person. handbag
+. train
+. parking meter. car. person
+. parking meter
+. train
+. train. car. truck
+. train. person. traffic light
+. train
+. traffic light. truck
+. horse. dog. mouse
+. horse. dog
+. horse. laptop. car. person. handbag
+. cat. boat. person
+. horse. bus. boat
+. dog. refrigerator. book. toilet. keyboard
+. car. boat. truck
+. boat. person. bird. keyboard
+. snowboard. person
+. tv. snowboard. person. refrigerator. toilet. sink
+. snowboard. scissors. person
+. person. boat
+. person. bear
+. car. motorcycle. person. tie. bear
+. tie. person
+. bear
+. zebra
+. tie. snowboard. toilet. person
+. person. sports ball
+. giraffe
+. sheep. toilet. person. snowboard
+. sheep. person. giraffe. laptop
+. sheep. person. handbag. laptop
+. sheep. person. snowboard
+. sheep. person. car. snowboard
+. sheep. person
+. sheep. person
+. sheep. person. truck
+. tennis racket. bottle. person. scissors
+. carrot. donut
+. skateboard. person. tennis racket. bottle
+. carrot
+. person. wine glass
+. broccoli. chair. cake
+. horse. toilet. keyboard. person. skis. handbag. hot dog. tie
+. sandwich. orange. chair
+. pizza. person. banana. broccoli. teddy bear
+. person. wine glass
+. person. wine glass
+. chair
+. person. wine glass. traffic light
+. car. person. wine glass
+. person. wine glass
+. person. wine glass
+. person. wine glass
+. person. toilet. broccoli. bed
+. person. bed
+. keyboard. pizza. apple. sandwich. banana. knife. orange. chair
+. cup. dining table
+. pizza. broccoli
+. broccoli. person. bed. keyboard
+. pizza. keyboard
+. bed
+. pizza. broccoli. keyboard. bowl
+. scissors. person. sandwich. dining table. keyboard. banana. apple
+. knife. person. potted plant
+. sink. book. vase. toilet. refrigerator
+. skateboard. fork. person. bird. scissors
+. tv. keyboard. clock. person. truck. toilet
+. sink. tv. toilet. broccoli. knife. keyboard
+. person. clock
+. knife. tv. snowboard. toilet. person. book. vase. sink
+. scissors. person
+. person. surfboard
+. person. surfboard
+. person
+. potted plant
+. person. fork
+. keyboard
+. scissors. person. bird. tie
+. scissors. person
+. knife. scissors. person. bird. handbag
+. scissors. person
+. person
+. knife
+. knife
+. knife
+. banana. broccoli. cake. dining table. keyboard
+. fire hydrant. handbag. person. sports ball
+. person. bird. skis
+. baseball bat. person
+. train. person
+. person. surfboard
+. traffic light. person
+. knife. oven
+. car
+. car. person. bottle. snowboard
+. oven
+. dog. tv. keyboard. horse. broccoli. toilet. book
+. cow. elephant
+. car. traffic light. fire hydrant. person. truck. laptop
+. traffic light
+. car. fire hydrant. person. wine glass. truck
+. bird
+. fire hydrant. car
+. backpack
+. cat. toilet. sandwich. keyboard. knife
+. backpack
+. car. truck. traffic light
+. cat
+. parking meter. person. car
+. train. person
+. train
+. train. person. skis. sports ball
+. bench
+. car. bench. truck. parking meter
+. car. bench. person
+. truck
+. dog. vase. book. sink
+. sink. carrot. person. mouse. knife. handbag
+. elephant
+. dog. refrigerator
+. sink. dog. vase
+. snowboard. person. toilet
+. bear
+. snowboard. person. skis. tie
+. boat. person
+. snowboard. person
+. sports ball. mouse
+. car. truck. sports ball. handbag
+. horse. person. cup
+. mouse. person
+. horse. banana. potted plant
+. giraffe
+. sheep
+. person. bottle. toilet
+. donut. broccoli
+. potted plant
+. person. wine glass
+. cake
+. knife. car. keyboard. traffic light. hot dog
+. keyboard. broccoli. cake
+. person. handbag. baseball bat
+. tv. mouse
+. chair. broccoli. keyboard
+. person. baseball bat
+. person. baseball bat
+. person. baseball bat
+. person. baseball bat
+. person. baseball glove
+. person. wine glass
+. person. wine glass
+. car. bed
+. person. bed
+. toilet. person. bed. mouse. banana
+. pizza. keyboard. orange. broccoli. banana
+. pizza. person
+. pizza. person
+. keyboard. sandwich. dining table. person
+. person. mouse
+. person. mouse
+. tie. cup. person. toilet
+. knife. toilet. person. sandwich. broccoli. keyboard. potted plant. banana
+. sink. tv. broccoli. laptop
+. tv. person. refrigerator. banana
+. skateboard. person. fork
+. skateboard. person. fork
+. clock
+. clock
+. clock. person
+. person
+. sink. clock. person
+. skateboard. fork. person
+. person. fork. skateboard
+. person. surfboard
+. person. tennis racket. bottle
+. boat
+. skateboard. person. fork
+. person. fork
+. toilet. person. fork
+. skateboard. person. fork
+. person
+. tv
+. scissors
+. scissors. laptop
+. scissors
+. scissors. person. toilet
+. person
+. sink. person
+. sink
+. person. toilet. laptop
+. laptop
+. laptop
+. knife. keyboard. banana. orange. broccoli. person
+. person. sandwich. broccoli. teddy bear
+. knife. person. banana. hair drier. dining table
+. banana. apple. sandwich. broccoli. orange
+. laptop. broccoli. knife
+. horse. oven
+. parking meter. car
+. horse. car
+. motorcycle. person. dog
+. car. motorcycle. person. traffic light. parking meter
+. bird. person. toilet
+. oven
+. motorcycle. person
+. airplane
+. airplane
+. car. traffic light. truck. bench
+. bench. bus. traffic light
+. dog. sandwich
+. airplane
+. backpack. boat
+. backpack
+. person. snowboard. handbag. skis. bird
+. car. bus. person. traffic light
+. bird. person
+. bus
+. backpack
+. car. bench. fire hydrant
+. car. bus. truck. person
+. car. bus. truck. person
+. car. bus. person
+. cat
+. cat
+. traffic light
+. cat
+. cat. train. toilet
+. horse. cow
+. cow
+. train. person
+. parking meter. car. person. skis. truck
+. parking meter
+. parking meter. person
+. parking meter. person. skis
+. truck. person. carrot
+. sheep. person. truck. car
+. truck
+. dog. person
+. dog. toilet
+. truck. person. car. skis
+. horse. boat. person
+. boat. person
+. snowboard. person
+. snowboard. person
+. tie. scissors. skis. person
+. snowboard. person
+. tie. person
+. horse
+. bear
+. tie. car. person. skis
+. tie. person
+. horse. person. kite
+. tie. person. skis. motorcycle
+. person. kite
+. giraffe
+. person. kite
+. person. kite
+. giraffe
+. giraffe
+. horse. kite. person. handbag. skateboard
+. horse. sheep. person
+. sheep
+. person. bottle
+. banana. carrot
+. person. baseball bat
+. person. baseball bat
+. keyboard. cake
+. person. baseball bat
+. car. hot dog. donut
+. person. baseball bat
+. person. baseball bat
+. person. wine glass
+. wine glass. person
+. cake
+. cake. chair. keyboard. person
+. motorcycle. person. wine glass
+. sandwich. dining table. toilet. keyboard
+. chair. hair drier
+. keyboard. couch. knife
+. couch. person
+. knife. broccoli. dining table
+. skateboard. person
+. mouse. skis
+. person. cup
+. dining table. keyboard. toilet
+. bicycle. person. skateboard
+. keyboard. sandwich. dining table
+. sink. refrigerator. vase. banana. book
+. keyboard. banana. broccoli. potted plant
+. skateboard. person. fork
+. person. keyboard. potted plant
+. sink. tv. person. refrigerator
+. toilet. person. sink. book. vase
+. person. handbag. skis. surfboard
+. person. surfboard. handbag. boat
+. tennis racket. person
+. person
+. car. person. tennis racket. knife. toilet
+. laptop
+. refrigerator. clock
+. refrigerator. book. person
+. sink. tv. toilet. person. refrigerator. broccoli. laptop. book
+. tv
+. laptop. person. scissors. skis
+. tv. scissors. person. skis
+. skis. donut. carrot. hot dog. teddy bear
+. teddy bear
+. toilet. laptop
+. laptop
+. laptop
+. scissors. banana
+. person. cake. bird. chair
+. person. bird
+. scissors. person. skis
+. snowboard. person. skis
+. knife
+. knife. hair drier. orange. teddy bear
+. knife. sandwich. orange. teddy bear. hair drier
+. orange
+. oven. clock
+. bus. person. traffic light
+. cat
+. bicycle. motorcycle. person. skis. truck
+. oven
+. motorcycle. person
+. motorcycle. person
+. airplane
+. airplane
+. bird
+. backpack
+. bicycle. car. person. traffic light. handbag. skis
+. airplane. person. truck
+. horse. cow. person
+. backpack
+. airplane
+. traffic light. truck
+. car. traffic light. truck
+. horse. bicycle. person
+. traffic light. person. train
+. bird
+. backpack
+. car. fire hydrant. laptop
+. person. tie
+. train
+. dog. mouse
+. train. boat
+. cat
+. cat
+. cat
+None
+. bicycle. car. person. parking meter
+. train. person
+. horse. elephant. person. sheep
+. dog
+. bottle. handbag. person
+. dog. mouse. person
+. elephant
+. truck. person. laptop
+. bicycle. snowboard. person
+. snowboard. person
+. snowboard. person
+. person. bear
+. bear. person
+. snowboard. toilet. person. banana
+. snowboard. person
+. snowboard. scissors. person
+. snowboard. person. car
+. laptop. person. tie
+. cat. boat. person. handbag. skis
+. bear
+. bear
+. bear
+. horse. mouse
+. sports ball. person
+. zebra
+. zebra
+. horse. person. truck
+. giraffe
+. giraffe
+. horse. person. kite
+. sheep. person. skis
+. sheep. person
+. person. skis. baseball bat
+. person. baseball bat
+. carrot
+. pizza
+. person. baseball bat. handbag
+. pizza. keyboard. apple. broccoli. donut. sandwich. hot dog
+. bottle. person
+. person. carrot. handbag
+. person. baseball bat
+. cake
+. person. wine glass
+. keyboard. sandwich. chair
+. sink. banana. orange. vase. scissors
+. person. wine glass
+. person. baseball bat
+. baseball bat. person
+. person. wine glass
+. person. baseball glove. surfboard
+. tie. person. sandwich. couch. laptop. bird. keyboard
+. bed. person. bird. toilet
+. person. cup
+. toilet. tv. person. sandwich. dining table
+. person. cup
+. dining table. person
+. person. cup
+. banana. sandwich. broccoli. dining table. knife. keyboard
+. person. cup
+. person. cup. truck
+. person. cup
+. mouse. person
+. keyboard. person. banana. potted plant. toilet
+. skateboard. person. fork
+. keyboard. potted plant
+. skateboard. person. fork
+. person. broccoli. potted plant
+. skateboard. person. fork
+. knife. clock
+. person
+. toilet. refrigerator. person. snowboard. sink
+. horse. sink. toilet. tv
+. person. clock
+. tv. person. laptop. clock
+. tv. person. clock
+. sink. book. vase. knife. clock. toilet
+None
+. person. surfboard
+. person. bottle. tennis racket
+. knife. keyboard. person. bowl. apple. potted plant. broccoli
+. sink. scissors. refrigerator. book
+. refrigerator
+. banana. orange. bed. mouse
+. mouse
+. knife. person. skis. scissors
+. scissors
+. scissors. person
+. person. apple. sandwich. knife. orange. broccoli
+. motorcycle. person. banana
+. knife. bowl. sandwich. broccoli. banana. orange. hair drier
+. knife. person. chair. teddy bear. dining table
+. person. banana. scissors. teddy bear
+. knife. dog. oven. person
+. oven
+. knife. oven
+. oven
+. laptop. oven. knife. banana. toilet
+. knife. oven
+. person. bird. car
+. dog. car
+. car. boat
+. orange. broccoli. carrot. donut
+. car. motorcycle. bus. person
+. airplane. traffic light
+. backpack
+. horse. bird. person
+. car. bus. truck. traffic light
+. parking meter. car. fire hydrant. person. traffic light
+. cow. person
+. person. bird
+. cat
+. traffic light
+. car. person. parking meter
+. backpack
+None
+. backpack
+. train
+. train
+. train. person. handbag. bird. skis. sports ball
+. elephant
+. dog. carrot
+. car. truck. person
+. sink. dog. toilet. keyboard. refrigerator. person
+. horse. car. person. boat
+. boat. person
+. snowboard. person. toilet. refrigerator. vase
+. tie. snowboard. person. skis
+. snowboard. person
+. tv. snowboard. person
+. person. bear
+. snowboard. person
+. tie. keyboard. person. bird. refrigerator
+. bear
+. person. car. boat. toilet. keyboard
+. bear
+. dog. refrigerator. book. tv
+. sports ball
+. tie. person
+. dog. sports ball. mouse
+. horse. person. tennis racket. knife
+. toilet. book. vase. sink. scissors
+. horse. kite
+. person. kite
+. horse. kite
+. horse. skateboard. kite. person
+. person. kite
+. horse. kite
+. kite. person
+. kite. person
+. giraffe
+. giraffe
+. sheep. person
+. sheep
+. skateboard. person. bottle
+. bottle. person. bird. tennis racket
+. apple. broccoli. donut. cake. dining table. orange. pizza. potted plant
+. car. traffic light. person. wine glass. sports ball
+. person. wine glass
+. person. wine glass
+. person. wine glass
+. horse. person. wine glass
+. pizza. person. bed. banana
+. person. wine glass. cup
+. person. baseball glove. handbag
+. airplane. bird. wine glass. person. truck. handbag. skis. keyboard
+. car. person. wine glass
+. person. chair. couch
+. banana. couch. keyboard
+. person. bird. baseball glove
+. toilet. person. couch
+. person. broccoli. couch. sandwich. keyboard
+. keyboard. person. banana. skis. bed
+. keyboard. person. banana. couch. skis. sink
+. person. baseball glove
+. person. baseball glove
+. bed. banana. orange
+. knife. person. bed. hair drier. toothbrush. banana
+. bed
+. bicycle. person. cup. handbag
+. person. sandwich. dining table. keyboard
+. orange. dining table
+. person
+. person. sandwich. orange. broccoli. dining table. keyboard. banana
+. mouse. toilet
+. toilet. keyboard
+. skateboard. person. bird. fork
+. fork. person
+. banana. potted plant
+. person. skis
+. person. clock. keyboard. toilet
+. sink. book. vase
+. book. vase
+. person. bird. surfboard
+. person. refrigerator. book
+. book. person
+. surfboard. person
+. person. tennis racket. bottle
+. toilet. person. tennis racket
+. keyboard. banana. apple. sandwich. potted plant
+. fork. person. toilet
+. person
+. sink. toilet. refrigerator. book. sports ball. vase
+. toilet. person. sink. scissors. banana. refrigerator. book. vase
+. person. refrigerator. mouse
+. banana
+. scissors. person
+. person. scissors
+. scissors. person
+. scissors. person
+. person. scissors
+. scissors. person
+. person. knife
+. knife. person
+. knife
+. knife. person
+. person
+. person
+. bicycle. person. skis
+. person. toilet
+. toilet
+. knife. car. toilet. keyboard. person. banana
+. keyboard. apple. sandwich. chair
+. knife. tv. orange. broccoli
+. toothbrush
+. bicycle. person. wine glass
+. person. cup
+. hair drier. person. banana
+. oven
+. person. scissors
+. dog
+. dog
+. oven
+. oven
+. oven
+. oven
+. bed. dining table. pizza
+. person. motorcycle. airplane
+. sink. tv. clock
+. motorcycle. handbag. skis
+. knife. toilet. keyboard. tie
+. motorcycle. person
+. airplane
+. cow
+. car. traffic light. truck
+. traffic light. person
+. fire hydrant
+. cow. truck
+. cat
+. cat
+. parking meter
+. train. person. sports ball
+. bicycle. car. bench. truck. person
+. tv. snowboard. mouse. dog
+. dog. mouse
+. dog. toilet. mouse
+. boat
+. snowboard. person
+. bear
+. snowboard. person
+. snowboard. person
+. snowboard. person
+. tie. toilet. person
+. boat. person
+. bear
+. tie
+. snowboard. person
+. person. bear. skis
+. person. bird. handbag. sports ball. skis. laptop
+. tie. car. truck. traffic light. person
+. person. sports ball. bird. handbag. skis
+. wine glass
+. person. kite
+. kite. person
+. giraffe
+. giraffe
+. person. baseball glove. baseball bat
+. handbag. person
+. hot dog. donut. broccoli. keyboard
+. person. handbag. baseball bat
+. person. donut. laptop
+. skateboard. person. bottle. bird
+. skateboard. person. bottle. bird
+. person. carrot
+. carrot
+. person. baseball bat. toilet
+. person. cup. baseball glove
+. carrot
+. orange. broccoli. hot dog. sandwich
+. person. wine glass
+. person. baseball bat
+. person. baseball bat. bird
+. chair
+. banana. bed
+. truck. person. wine glass
+. person
+. person. bird. baseball bat
+. person. wine glass
+. wine glass. person
+. person. wine glass
+. couch. keyboard. banana. pizza
+. person. baseball glove
+. bed
+. knife. pizza. person
+. skateboard. person. tennis racket. sports ball
+. person. cup. boat
+. person. cup
+. person. snowboard. sandwich. dining table. bowl. keyboard. laptop
+. person. cup
+. person. cup
+. person. cup
+. cup. mouse
+. cup. person
+. skateboard. truck. person. car
+. keyboard. person. orange. banana. dining table
+. potted plant. apple
+. mouse
+. mouse. bicycle
+. sink. refrigerator. book. vase. toilet
+. person. banana. potted plant
+. potted plant
+. potted plant. hair drier
+. hair drier
+. tv. person. clock. toilet
+. person. clock. skis. tv. toilet
+. tv. person. clock
+. toilet. tv. keyboard. laptop
+. toilet. tv. laptop. bowl. knife. mouse
+. sink. scissors. refrigerator. book. vase
+. person. book. vase
+. person. surfboard
+. horse. person. surfboard
+. person. tennis racket. bottle
+. toilet. person. keyboard. knife
+. person. tennis racket. bottle. toilet
+. person. tennis racket
+. person. tennis racket
+. refrigerator. book. person
+. book. person. refrigerator. teddy bear. toilet. keyboard. scissors
+. snowboard. toilet. person. refrigerator. skis
+. skis. banana. hair drier
+. scissors. person. toilet. keyboard
+. scissors. person. bird
+. horse. car. person. snowboard. scissors. truck
+. knife. bicycle. person. truck
+. bicycle
+. bicycle
+. bicycle
+. bicycle. person. knife
+. person
+. person
+. person. knife
+. orange. broccoli. person. hair drier
+. apple. sandwich. orange. broccoli. hot dog
+. keyboard. orange. broccoli
+. knife. keyboard. sandwich. broccoli. donut. orange. skis. toilet
+. sink. clock
+. knife. banana
+. oven
+. oven
+. bird. oven
+. laptop. oven
+. oven. snowboard. person
+. scissors. car. truck. person. skis
+. horse. car
+. car
+. person. oven
+. person. oven
+. oven
+. oven
+. oven. knife
+. knife. donut. book. vase. banana. sink. scissors
+. motorcycle. person. skis. laptop
+None
+. motorcycle. person
+. motorcycle
+. airplane
+. airplane. truck
+. airplane. truck
+. airplane
+. person. bird. skis
+. airplane
+. traffic light. person. broccoli. truck. hair drier
+. bicycle. car. person. scissors. truck. traffic light. bird
+. traffic light. car. person. bus
+. train. traffic light
+. dog. bird
+. airplane. person
+. airplane. person
+. airplane
+. bus. person. bird. snowboard
+. car. traffic light. person
+. car. bus. person. traffic light
+. backpack
+. bus. person
+. bus. person
+. car. bus. truck
+. fire hydrant. parking meter
+. car. person. truck. laptop
+. cat
+. skis. person. bird. train. laptop
+. car
+. tie. person. bird
+. train. bird
+. train. traffic light
+None
+. cat. person. boat
+. person. apple. orange. dining table
+. parking meter
+. car. bus
+. boat. cup
+. bicycle. person. bench. skis
+. dog. mouse
+. sink. dog
+. sink. dog
+. elephant
+. snowboard. person. car
+. boat. horse. tie. toilet
+. toilet. keyboard. person. snowboard
+. boat
+. tie. car. person. skis
+. horse. toilet. person. kite. tie
+. tie. snowboard. person
+. zebra
+. car. person. kite
+. sheep. person
+. sheep. person
+. person. baseball bat
+. carrot. donut
+. person. bottle. skateboard
+. person. bottle. skis
+. person. handbag
+. person. baseball bat
+. person. baseball bat
+. baseball bat
+. bicycle. person. wine glass
+. person. wine glass
+. person. bird. wine glass. car. scissors
+. person. wine glass
+. knife. orange. chair
+. sandwich. dining table
+. person. wine glass
+. wine glass. person
+. person. wine glass
+. person. wine glass
+. person. wine glass
+. person. wine glass
+. car
+. bed
+. pizza. person. apple. orange. broccoli. banana
+. person. cup
+. skateboard. bus. person. car
+. sink. toilet. mouse. refrigerator
+. mouse. clock
+. pizza. person. banana. orange. car. bird. keyboard
+. mouse. sports ball
+. skateboard. person. fork
+. potted plant. knife
+. knife. person
+. person
+. laptop. sheep. tv. toilet. broccoli
+. laptop. sink. toilet. tv. oven
+. surfboard. tie
+. surfboard. car. traffic light. person
+. tennis racket. bottle. person
+. tennis racket. bottle. person
+. skateboard. fork. person
+. car. truck. person
+. car
+. car
+. person
+. person
+. person
+. person. toilet
+. toilet. car. traffic light. person
+. car
+. car. toilet. keyboard
+. knife. person. orange
+. knife. scissors. person. bowl. sandwich. banana. broccoli. hair drier. apple
+. sandwich. broccoli. toothbrush
+. knife. broccoli
+. person. cup
+. dog
+. bicycle. person. banana
+. oven. banana
+. person. oven
+. bicycle. person
+. knife. oven
+. elephant. car
+. car. cup. toilet. person
+. broccoli. cake. chair. carrot. keyboard
+. broccoli. hot dog. keyboard
+. motorcycle. person
+. motorcycle. person
+. laptop. motorcycle
+. dog. mouse
+. motorcycle. person
+. motorcycle. person
+. traffic light. parking meter
+. cat. traffic light
+. cow. elephant
+. person. bird
+. car. bus. person. skis. handbag
+. cat
+. backpack
+. traffic light
+. cat
+. sheep. person. car
+None
+. parking meter. traffic light. bench. fire hydrant
+None
+. parking meter
+. dog. sports ball. toilet
+. mouse. sports ball. dog
+. dog. skis
+. truck. person
+. laptop. dog. toilet
+. truck
+. horse. boat. person
+. boat
+. boat
+. sink. person. snowboard
+. boat
+. person. tie. car. traffic light. skis. truck
+. tie. person. toilet. laptop
+. tie. car. person
+. snowboard. person. banana. toilet
+. dog
+. tie. person. car. boat
+. tie. person. skis. handbag
+. tie. toilet. person. handbag. skis
+. handbag. sports ball. keyboard
+. tie. person
+. toilet. person. bird. bear. handbag
+. person. bear
+. person. banana. skis. sports ball. handbag
+. tie. toilet. person. handbag. skis. sports ball. scissors
+. sports ball
+. sports ball
+. tie. skis. person. handbag. toilet
+. tie. car. skis. person. handbag
+. tie. person
+. zebra
+. person. kite
+. carrot. hot dog. broccoli. keyboard
+. skateboard. person. tennis racket. bottle
+. person. baseball bat
+. person. baseball bat. baseball glove
+. person. tennis racket. bottle. skateboard
+. person. carrot
+. potted plant
+. person. baseball bat. handbag. baseball glove
+. person. baseball bat
+. person. baseball bat. boat
+. laptop. car
+. person. wine glass
+. person. wine glass
+. person. baseball bat
+. person. baseball bat
+. person. baseball bat
+. pizza. person. sandwich. knife. keyboard
+. wine glass. person
+. person. banana. bed
+. laptop. tie. skateboard. person. toilet
+. person. cup
+. cup. toilet. keyboard. person. orange. broccoli. dining table. bowl. banana
+. toilet. apple. sandwich. dining table. person. bowl. banana. keyboard
+. skateboard. person
+. person. knife. bowl. banana. pizza. toilet. keyboard. broccoli
+. keyboard. person. bowl. banana. orange. dining table. handbag. broccoli. apple
+. person. cup
+. keyboard. person. apple. orange. dining table
+. keyboard. person. apple. dining table
+. mouse. person. toilet
+. person. cup
+. banana. apple. potted plant
+. potted plant
+. person. fork. bird
+. skateboard. person. fork
+. person. fork
+. person. fork
+. knife. toilet. person. fork. skis
+. person. potted plant. keyboard
+. person. fork. bird
+. person. fork
+. person. fork. skateboard
+. skateboard. person. knife. toilet
+. potted plant. person
+. skateboard. person. fork
+. person. fork
+. vase. refrigerator
+. tv. toilet. person. clock
+. sink. toilet. tv. person. teddy bear
+. tv. person. clock
+. book. vase
+. surfboard
+. person. surfboard
+. person. surfboard
+. laptop. toilet. person. refrigerator. keyboard
+. person. tennis racket. bird. toilet
+. keyboard. person. banana. broccoli. potted plant. toilet
+. toilet. keyboard. person. potted plant. scissors
+. toilet
+. person. laptop. banana
+. knife
+. person. banana. refrigerator
+. teddy bear. hair drier
+. sandwich. carrot
+. laptop. pizza. banana. knife. keyboard
+. knife
+. banana. apple. orange. toilet. keyboard
+. keyboard. orange. broccoli. carrot. banana. sandwich
+. toilet. keyboard. person. banana. broccoli. bowl
+. knife. person. bowl. banana. sandwich. orange. broccoli. toilet. keyboard
+. tie. car. person. laptop
+. person. scissors. banana. broccoli. hair drier. knife. orange
+. knife. keyboard. person. orange. skis. sandwich
+. knife. person. fork. toilet
+. scissors. person. fork. handbag
+. fork. hair drier. hot dog
+. scissors. bicycle. car. person. skis
+. oven
+. horse. bicycle
+. oven
+. person. oven
+. laptop. oven
+. oven
+. knife. bird. toilet
+. dog. car. motorcycle
+. oven
+. horse. car. motorcycle. bus. truck
+. person. banana. oven
+. motorcycle. car. laptop
+. oven
+. car. motorcycle. snowboard. person
+. person. wine glass
+. person
+. car. traffic light. bicycle. bench
+. person. bird. skis
+. horse. cow. person
+. bicycle. boat. person. bird. skis
+None
+. boat. traffic light
+. bus. person
+. airplane. person. bird. knife
+. backpack
+. cat. person. bird
+. backpack
+. car. person. bird. handbag. bicycle
+. bus. person. car. truck
+. car. bus. person
+. fire hydrant
+. cat. dog. toilet
+. cow
+. parking meter
+. cat
+. dining table
+. horse
+. elephant
+None
+. bench
+. bench
+. truck
+. elephant
+. dog. knife. broccoli. hair drier. handbag
+. car. truck
+. handbag. sports ball. skis
+. elephant. broccoli
+. snowboard. person
+. car. motorcycle. person. tie. bear
+. bear
+. bear
+. bear. person
+. train. person. tie. skis
+. tie. keyboard. toilet. bird
+. boat
+. person. bear. broccoli
+. person. sports ball
+. horse. toilet
+. car. person. kite
+. giraffe
+. giraffe
+. person. kite
+. cat. giraffe
+. giraffe
+. person. bird. baseball glove. baseball bat
+. person. handbag. baseball bat
+. person. wine glass. bird
+. knife. wine glass. person. bicycle
+. person. wine glass
+. person. couch. knife. keyboard
+. horse. person. wine glass
+. bed
+. pizza. person. bowl. banana. broccoli. keyboard
+. skateboard. person
+. person. cup
+. person. cup
+. cup
+. person. fork
+. knife. toilet. person. fork. handbag
+. knife. person. fork. bird. toilet
+. skateboard. person. fork. truck
+. toilet. banana. potted plant. sandwich
+. skateboard. person. fork
+. person. fork
+. person. fork
+. person. fork
+. person. clock
+. tv. person. clock. laptop
+. laptop. mouse. person. clock. toilet
+. skateboard. person. fork
+. skateboard. person. fork
+. dog. tv. laptop. clock. sandwich. toilet
+. person. surfboard
+. skateboard. person. fork
+. bicycle. car. truck. laptop
+. broccoli. hair drier. hot dog
+. person. refrigerator
+. broccoli. knife. orange
+. sandwich. teddy bear
+. scissors. person
+. scissors. car. person. bird
+None
+. bird
+. person. handbag. skis
+. sink. car. person. tennis racket. skis. truck
+. person. handbag. baseball bat
+. knife. toothbrush. toilet. teddy bear
+. oven. skis
+. oven
+. oven
+. motorcycle. bus. person. car. truck
+. oven
+. oven
+. car. motorcycle. person. traffic light
+. person. orange. bowl. banana
+. horse. oven
+. motorcycle. person
+. backpack
+. traffic light. person. truck. car
+. backpack
+. backpack
+. person. backpack
+. person. bus. handbag. car. truck. fire hydrant
+. car. person. fire hydrant
+. car. bus. person. bicycle. traffic light. truck
+. fire hydrant. person. sports ball
+. cat. boat
+. car. bus
+. bus. fire hydrant. car
+. bus. person
+. sink. person. snowboard
+None
+. train. person
+. tie. person. handbag
+. person
+. train
+. fire hydrant. bench. car
+. car. truck. parking meter
+. truck. traffic light. person. handbag
+. person. truck
+. dog. mouse
+. truck. car
+. truck. car
+. truck. person. car
+. elephant
+. elephant
+. bear. car. person
+. tie. traffic light. person. skis. truck
+. snowboard. person
+. tie. person
+. tie. person. car
+. bear
+. tie. bird. handbag. person
+. horse. tie. person. bird
+. cat. bear
+. cat. bear
+. dog. mouse
+. horse. sheep
+. horse. kite
+. sports ball
+. tie. truck. sports ball. person. handbag. skis
+. person. mouse
+. zebra
+. person. kite
+. zebra
+. giraffe
+. horse. laptop. dog. keyboard. toilet
+. person. kite. car
+. person. kite
+. giraffe
+. giraffe
+. sheep. person. orange. knife
+. sheep
+. sheep. person
+. sheep. person
+. sandwich. donut. keyboard. orange
+. skateboard. person. tennis racket. bottle
+. person. baseball bat. handbag
+None
+. person. banana. carrot
+. baseball bat. handbag. person
+. skateboard. person. bottle
+. cake
+. person. baseball glove. baseball bat
+. baseball bat. person. baseball glove
+. person. baseball bat
+. person. bird. wine glass
+. person. baseball glove
+. person. baseball glove
+. person. wine glass. handbag. potted plant
+. car. person. couch
+. bed
+. baseball glove. person
+. wine glass. cup
+. person. cup
+. person. cup
+. skateboard. person
+. skateboard. person
+. toilet. person. dining table
+. person. banana. dining table
+. potted plant
+. keyboard. person. dining table. sandwich. orange. broccoli. knife
+. potted plant
+. person. clock. tv
+. tv. person. clock. sink
+. person. clock
+. sink. book. vase
+. bicycle. person
+. person. surfboard
+. person. surfboard
+. person. surfboard
+. tennis racket. person. bottle
+. person
+. person. skateboard
+. skateboard. snowboard
+. scissors. skis. car. person
+. teddy bear. toothbrush. hair drier
+. hair drier
+. scissors. fire hydrant. person
+. person. skis. scissors
+. scissors. person
+. person
+. toilet. person
+. toilet. person. keyboard
+. keyboard
+. keyboard. pizza. apple. orange. broccoli. person. sandwich. knife
+. person. banana. sandwich. knife. broccoli
+. knife. person. bowl. keyboard
+. person. knife. bowl
+. person. toilet. banana. keyboard. hair drier
+. teddy bear. toothbrush
+. orange
+. sheep. person
+. person. skis. truck
+. oven
+. oven
+. oven
+. car. motorcycle. truck
+. car. motorcycle. person. toilet
+. toilet. person. banana. refrigerator. book. sink. skis
+. motorcycle. person
+. person. toilet
+. car. motorcycle. person
+. airplane. elephant. person. car. truck
+. backpack
+. airplane
+. airplane
+. backpack
+. backpack
+. backpack. chair. skis. person
+. dining table. cow
+. dog. person. skis. bird
+. airplane
+. airplane
+. car. bus. person. skis
+. person
+. giraffe. backpack
+. backpack
+. car. traffic light
+. fire hydrant. person. car
+. fire hydrant
+. train
+. fire hydrant. person. handbag. car. truck
+. cat. boat. person
+. cat. person
+. cat. hot dog
+. traffic light
+. backpack
+. cat. person
+. cat. person. skis
+. cat
+None
+. sheep. person
+. train. person
+. train. traffic light
+. parking meter
+. dog
+. horse. dog. knife
+. cow. elephant
+. dog. sandwich
+. elephant
+. dog. tv. toilet
+. dog. mouse
+. dog. mouse
+. dog. mouse
+. elephant
+. elephant
+. boat. car. person. bird
+. snowboard. person
+. car. boat
+. boat. person
+. person. snowboard
+. person. bear. handbag
+. snowboard. person
+. boat. person
+. person. bear
+. tie. cup
+. zebra
+. tie. person
+. tie. person
+. horse. dining table
+. zebra
+. giraffe
+. giraffe
+. horse. tv
+. sheep. truck
+. donut. banana
+. keyboard. banana. donut. broccoli
+. donut
+. car. person. baseball bat. skis. traffic light
+. person. handbag. baseball bat
+. cake. broccoli
+. person. donut. truck. hot dog. chair
+. person. baseball bat
+. person. baseball bat
+. bicycle. person. wine glass
+. person. baseball bat
+. baseball glove. person
+. person. baseball bat
+. person. sandwich. hair drier. knife. bed
+. person. baseball glove
+. person. cup
+. person. banana. bed. hair drier
+. boat. person. cup
+. skateboard. person. bottle
+. person. cup
+. toilet. keyboard. dining table. snowboard. sandwich. person
+. cup. person
+. person. cup
+. person. cup
+. skateboard. person. car
+. scissors. banana. dining table. person. keyboard. knife
+. dining table. toilet. keyboard
+. person. cup
+. cup. person
+. person. cup
+. knife. toilet. keyboard. person. banana. potted plant. apple. sandwich. broccoli
+. cup. person
+. toilet. banana. refrigerator. book. person
+. keyboard. bowl. sandwich. potted plant. banana
+. person. clock. broccoli
+. dog. toilet. keyboard
+. sink. book. clock. vase
+. person. surfboard. boat
+. refrigerator. toilet. laptop. keyboard
+. person. tennis racket. bottle
+. skateboard. person. tennis racket
+. person. tennis racket. bottle
+. person. tennis racket. bottle
+. skateboard. person. fork
+. person. fork
+. fork
+. fork
+. sink. book. vase. refrigerator. scissors
+. refrigerator. teddy bear
+. scissors. toilet. keyboard. person
+. scissors
+. scissors. knife
+. person
+. person. car. skis. tie. laptop
+. person
+. knife. laptop. keyboard
+. person
+. knife. toilet. keyboard. banana. broccoli. carrot. donut. person. handbag
+. keyboard. banana. sandwich. apple. potted plant
+. keyboard. person. banana. apple. toilet. hair drier. sandwich
+. car. motorcycle. person. truck
+. hair drier
+. cat. person. hair drier. sandwich. teddy bear
+. teddy bear. orange. broccoli. carrot. banana. hot dog
+. laptop. broccoli. hair drier
+. toilet. hair drier. handbag. knife. keyboard. scissors. person
+. bicycle. bus. person. scissors. handbag. skis
+. orange. dining table. keyboard
+. car. motorcycle. person. handbag
+. dog. scissors. refrigerator. sink. person
+. motorcycle. person
+. airplane
+. person. scissors
+. cow. person. truck
+. airplane. truck. person
+. cow
+. airplane
+. cat. car. bus. person. truck. traffic light. bird. handbag
+. car. bus. person. traffic light
+. cow
+. cat
+. car. train. person
+. train
+. cow
+. train
+. laptop. car
+None
+. cat
+. train
+. train
+. train
+. train. person. sports ball. car. handbag. skis
+. train. person
+. train. traffic light. truck
+. train
+. truck. person. skis. snowboard
+. elephant. motorcycle
+. dog. car
+. dog. laptop
+. horse. laptop. boat
+. boat. tie. person. skis
+. sink. person. snowboard. banana. broccoli. toilet. keyboard. bed
+. snowboard. person
+. boat
+. snowboard. person
+. person. bear
+. snowboard. person. banana. bowl
+. snowboard. person
+. tie. toilet. handbag
+. bear
+. bear. donut
+. skis. sports ball
+. sports ball
+. horse. dog. tv
+. knife. sports ball
+. horse. sink. mouse
+. horse. mouse
+. horse. car. person. scissors. handbag. motorcycle. traffic light. parking meter
+. horse. refrigerator. clock. mouse
+. person. kite. car. truck
+. sheep. person
+. banana. donut. keyboard
+. person. baseball bat
+. skateboard. tennis racket. bottle. person. toilet
+. knife. person. broccoli. carrot
+. apple. cake
+. pizza. person. broccoli. cake
+. person. broccoli. cake
+. person. wine glass
+. person. wine glass
+. person. wine glass. car. bird
+. person. wine glass
+. toilet. keyboard. person. banana. couch
+. person. bed
+. banana. bed. keyboard
+. person. bed. tv
+. person. cup
+. bed
+. pizza. keyboard
+. cup
+. person. boat. cup
+. person. sandwich. dining table. orange. keyboard
+. snowboard. person. sandwich. bowl. dining table. keyboard
+. mouse. keyboard
+. person. boat
+. knife. person. banana. mouse. keyboard
+. person. toilet. mouse
+. potted plant. keyboard
+. person. sandwich. potted plant. banana. broccoli. keyboard
+. person. fork
+. sink. toilet. refrigerator. book. vase. scissors
+. scissors. person
+. laptop. sink. person
+. refrigerator. book. vase
+. scissors. person. refrigerator. book. toilet. handbag
+. sink. knife. tv. keyboard. clock. cat. laptop
+. person. surfboard. car
+. skateboard. toilet. bird. tennis racket. bottle. person
+. skateboard. person. tennis racket. car
+. keyboard. potted plant. toilet. apple
+. skateboard. toilet. fork. person
+. knife. keyboard. bird. refrigerator. handbag. laptop
+. cat
+. hair drier
+. person. scissors. skis. keyboard. knife. dog
+. scissors. person
+. person. car. handbag
+. handbag. person
+. person
+. banana
+. person. banana. sandwich. broccoli. bowl. orange
+. apple. sandwich. keyboard
+. person. handbag. bowl. apple. sandwich. toilet. knife. keyboard
+. person. bird. scissors
+. scissors. person. bird
+. knife. clock. banana. carrot. broccoli. scissors. toilet. keyboard
+. sandwich. hair drier. teddy bear
+. sandwich. banana. teddy bear. hair drier
+. broccoli. keyboard
+. broccoli. hair drier. orange. dining table. banana
+. knife. hot dog. teddy bear. broccoli. toilet. hair drier. keyboard
+. knife. toilet. bowl. sandwich. hair drier
+. knife. dining table
+. knife
+. person. wine glass
+. car. person. fork. traffic light. skateboard. knife. truck
+. toilet. keyboard. banana. orange. sandwich. hair drier. broccoli
+. broccoli
+. broccoli
+. oven. knife
+. oven
+. horse. car. person
+. car. person. dog
+. oven
+. dog. oven
+. toilet. person. refrigerator. bowl
+. oven
+. knife. toilet. carrot. book. vase. handbag. refrigerator. sink
+. airplane. person. truck
+. cow
+. sandwich
+. backpack
+. backpack
+. bicycle. bus. person. bird. skis
+. person. bird
+. bus
+. cow. bird. elephant
+. car. fire hydrant
+. backpack
+. backpack. car. traffic light. person. truck
+. sink. person
+. car. person. truck
+. train
+. horse. person
+. train
+. train. person
+. train
+. train. person. car. truck
+. cat. person
+. cat
+. train. person
+. dining table
+. train. traffic light
+. bench. car. bicycle
+. dog. toilet. sink
+. truck. traffic light
+. dog
+. elephant
+. boat. person
+. snowboard. person
+. tie. car. fire hydrant. person. traffic light. truck
+. person. handbag. snowboard
+. bear
+. snowboard. person
+. boat
+. horse
+. horse. knife. person. mouse. skateboard. banana. keyboard
+. car. sports ball. handbag. skis
+. person. dining table. skis. banana. bird. keyboard
+. person. skis. toilet
+. kite. person. car. truck
+. cat. person. kite
+. person. kite
+. person. kite. traffic light
+. giraffe
+. sheep
+. keyboard. person. potted plant
+. person
+. boat. person. cup
+. boat. person. wine glass
+. skis. person. handbag. wine glass
+. knife. person. banana. sandwich. hot dog
+. pizza. toothbrush
+. chair
+. wine glass. person
+. couch. person
+. banana. couch. keyboard
+. pizza. banana. apple. sandwich. keyboard. person. scissors
+. bed
+. pizza
+. sink. knife. keyboard. person. pizza. toilet. clock. chair. potted plant. apple
+. person. cup
+. pizza
+. horse. mouse. skateboard
+. person. cup
+. person. cup
+. cup. mouse
+. mouse. keyboard. toilet
+. person. cup
+. skateboard. person
+. skateboard. person
+. mouse. person. skis. toilet
+. person. fork
+. person. fork
+. toilet. fork. person
+. keyboard. person. potted plant
+. knife. keyboard. apple. sandwich. potted plant. person
+. sink. toilet. book. vase. person. scissors
+. person
+. sink. toilet. person. handbag
+. horse. sink. tv. person. bowl. banana. clock
+. laptop. knife. tv. person. bowl. clock. keyboard. banana
+. tv. toilet. person. clock
+. horse. person. clock. tv
+. clock
+. clock
+. sink. tv. toilet. keyboard
+. sink. keyboard. person. broccoli. clock. tv
+. person. surfboard. car. truck
+. person. boat. surfboard
+. person. surfboard. truck. baseball glove
+. person. tennis racket. bottle
+. person. bottle
+. person. tennis racket
+. skateboard. person. tennis racket
+. bottle. person. skateboard. tennis racket
+. person. fork
+. toilet. refrigerator. vase. book. knife
+. sink. hot dog. book. vase. refrigerator
+. book. dog
+. knife. person. orange. apple. broccoli. truck. banana
+. scissors. car. person. handbag. knife
+. tv. person. scissors. handbag. toilet. mouse
+. scissors
+. scissors. teddy bear
+. knife. banana. hair drier
+. hair drier
+. hair drier. knife
+. pizza. keyboard. banana. sandwich
+. tv. horse. mouse
+. mouse
+. mouse
+. knife. keyboard. orange. person. sandwich. broccoli. pizza
+. knife. toilet. keyboard. person. bowl. broccoli. donut. potted plant. apple. orange
+. knife. orange. broccoli. hair drier. banana
+. toilet. keyboard. cup. skis. person. banana
+. motorcycle
+. bicycle. bus
+. parking meter. car
+. motorcycle. person
+. car. person. motorcycle
+. broccoli. cake. hot dog. chair. keyboard
+. car. toilet. person. refrigerator. skis. bird
+. person. sports ball. motorcycle
+. car. person. motorcycle. truck
+. car. motorcycle. person. truck
+. parking meter. car. person. bench. skis. scissors. bus
+. laptop. toilet. keyboard. motorcycle. person. traffic light. fire hydrant. tie. car
+. airplane
+. airplane
+. car. airplane. person. truck. sports ball. skis
+. car. truck. traffic light
+. giraffe. backpack
+. person. backpack. handbag. skis
+. giraffe. backpack
+. traffic light. tie
+. bird
+. bird. person. dog
+. backpack
+. cow. person. bird. skis. truck
+. backpack
+. laptop. motorcycle. bus. car. person. traffic light
+. bus. person
+. car. fire hydrant. boat
+. bird
+. person. bird
+. cow
+. cat. car. truck. traffic light. bench. fire hydrant
+. cat. sheep
+. car. traffic light
+. car. bench
+. cat
+. bus. traffic light
+. traffic light. fire hydrant. person. tie
+None
+. cat
+. cow
+None
+. cat
+. train. person. bird. handbag
+. elephant. person. mouse. sink
+. snowboard. person. parking meter
+. train. person
+. train
+. train
+. parking meter
+. bicycle. train. handbag
+. horse. dog. mouse. person
+. elephant. motorcycle
+. elephant. person
+. elephant
+. elephant
+. tv. person. toilet
+. bear. person. bird. handbag
+. snowboard. person
+. sink. dog. tv
+. cat. bear
+. sports ball
+. bear. person. skateboard
+. person. sports ball. handbag. skis
+. zebra
+. person. kite
+. horse. kite
+. horse. kite
+. giraffe
+. person. kite
+. person. kite
+. horse. kite
+. person. kite
+. giraffe
+. baseball glove. baseball bat
+. baseball bat. person
+. person. handbag. skis. baseball glove. baseball bat
+. person. wine glass
+. person. baseball bat
+. person. wine glass. car
+. wine glass. person. knife
+. toilet. person. apple. dining table
+. knife. mouse. person. chair
+. couch. knife. dining table. keyboard
+. person. cup
+. person. cup
+. mouse. toilet
+. keyboard. person. banana. apple. orange. dining table. broccoli
+. person. cup
+. person. cup
+. cup. person
+. mouse
+. knife. banana. potted plant. keyboard
+. potted plant. sandwich
+. potted plant. apple. broccoli. knife
+. potted plant. banana
+. person. fork
+. person. clock
+. tv. scissors. person. clock. sink. knife. banana
+. clock
+. clock. person
+. skateboard. person. tennis racket
+. skateboard. toilet. fork. person
+. skateboard. toilet. person. fork
+. person. toilet
+. keyboard
+. keyboard
+. toilet. snowboard
+. scissors. person
+. teddy bear. hair drier. person. knife. sandwich
+. person. carrot. knife. bowl. banana. sandwich. broccoli
+. person. toilet. pizza. couch
+. couch. person. skis
+. banana
+. banana
+. person
+. person. orange. broccoli. keyboard. pizza. toilet
+. keyboard. person. scissors. banana. bird. toilet
+. knife. pizza. keyboard. person. bowl. banana. sandwich. broccoli. apple
+. toilet. keyboard. banana. broccoli. person. knife. orange
+. person. keyboard. bowl. knife
+. knife. bowl. skis. person. toilet. keyboard
+. toilet. person. bowl. car
+. snowboard. person. refrigerator
+. refrigerator. donut. teddy bear. hair drier
+. sandwich. carrot. hot dog. toothbrush. knife. broccoli. hair drier. chair
+. sink. toilet. keyboard. person. clock. hair drier. broccoli. orange
+. dog. toilet. bicycle
+. bicycle. knife
+. oven
+. knife. oven
+. dog
+. cat
+. oven
+. motorcycle. person
+. motorcycle
+. bird. person. boat
+. backpack
+. airplane
+. airplane. traffic light
+. airplane
+. airplane. cow
+. airplane
+. traffic light. person
+. backpack
+. traffic light
+. horse. cow
+. car. motorcycle. bus. person. skis
+. cow
+. tie. person
+. traffic light
+. cow
+. cat
+. cow
+. traffic light
+. parking meter
+. motorcycle. person. truck. fire hydrant. skis. toilet
+. parking meter. person. car. bench
+. car. bench. bicycle
+. car. bench. traffic light
+. boat. person. truck. scissors
+. car. toilet. dining table. truck. keyboard
+. dog
+. dog
+. dog. wine glass
+. dog. bed. person
+. elephant
+. dog
+. elephant. person
+. sink. dog. banana. refrigerator. book. vase
+. dog. refrigerator
+. snowboard. person
+. snowboard. mouse. person
+. person. tie. car. skis. motorcycle
+. dog
+. snowboard. person
+. knife. keyboard. toilet. snowboard. bowl. banana. person. scissors
+. sports ball. person. skis
+. bear
+. bear. sports ball
+. person. sports ball
+. horse. kite
+. surfboard
+. knife. tie. person. skis
+. mouse
+. horse. kite
+. zebra
+. horse. bicycle
+. giraffe
+. horse. hair drier
+. person. kite
+None
+. giraffe
+. car. person. kite. boat. handbag. truck
+. giraffe
+. sheep. car. person
+. knife. person. carrot
+. person. baseball bat
+. person. baseball glove. handbag. baseball bat
+. carrot
+. potted plant. keyboard
+. orange. broccoli. carrot
+. skateboard. car. person. bottle
+. person. baseball bat. banana
+. person. wine glass
+. banana. sandwich. cake
+. wine glass. person. handbag
+. person. wine glass. truck. car
+. couch. pizza
+. knife. keyboard. orange. pizza
+. toilet. keyboard. handbag. skis. person. tie. carrot. hot dog. donut
+. person. cup. surfboard
+. person. cup
+. person. cup
+. person. cup
+. person. cup
+. dining table. person. sandwich
+. toilet. keyboard. person. bowl. banana. sandwich. dining table
+. cup. person
+. person. cup
+. person. cup
+. person. cup
+. person. fork
+. tv. refrigerator. person
+. knife. potted plant. sandwich. person. banana. keyboard
+. skateboard. person. fork
+. sink. person. knife
+. sink. person. clock
+. tv. sports ball. refrigerator. clock
+. cat. toilet. tv
+. person
+. person. surfboard
+. skateboard. person. tennis racket. bird. banana
+. keyboard. banana. apple. potted plant. knife
+. person. apple. sandwich. potted plant. chair. toilet. keyboard
+. tv. scissors. person. broccoli. refrigerator
+. mouse. person. refrigerator
+. scissors. toilet. person. refrigerator. handbag
+. toilet. refrigerator. handbag. person
+. person
+. person
+. scissors. person. broccoli. sandwich. toilet. keyboard. tv
+. tv. dog
+. dog
+. dog
+. snowboard. pizza. scissors. person. bowl. broccoli. keyboard. banana
+. knife. person. banana. broccoli
+. dog
+. oven
+. oven
+. bicycle. person
+. banana. knife. oven
+. laptop. broccoli
+. knife. oven. banana
+. motorcycle. person
+. dog
+. motorcycle
+None
+. airplane. person
+. airplane
+. backpack
+. backpack
+. airplane
+. bicycle. person. truck. bus. car
+. traffic light. car
+. traffic light
+. backpack
+. bus. person. bicycle
+. fire hydrant. person. banana. laptop
+. car. fire hydrant
+. fire hydrant
+. cow
+. fire hydrant
+. car. fire hydrant
+. cat. cow
+. backpack
+. bus. parking meter
+. car. bus. person. traffic light
+. cat
+. boat. person
+. cat
+. parking meter. car. truck
+. train
+. train. person
+. train. traffic light
+. train. person. bird
+. car. truck. person. cup
+. elephant
+. elephant
+. dog
+. dog. clock
+. dog. toilet. refrigerator
+. snowboard. person
+. boat. person. cat
+. boat. person
+. bear
+. boat
+. elephant. bear
+. snowboard. person
+. toilet. handbag. skis. sports ball
+. bear
+. toilet. person. bird. snowboard. sports ball
+. person. skis. sports ball. broccoli
+. toilet. sports ball
+. refrigerator. vase
+. horse. tv
+. horse. mouse. laptop
+. person. kite
+. kite. person. knife
+. horse. person. kite
+. person. kite
+. giraffe
+. giraffe
+. giraffe
+. sheep
+. sheep. person
+. sink. person. banana. baseball bat. toilet. refrigerator. bird. tv
+. person. bottle. skateboard
+. apple. broccoli. cake. keyboard
+. carrot. hot dog
+. cake. chair
+. keyboard. broccoli. cake
+. cake
+. apple. hot dog. dining table
+. baseball bat. person. bus
+. broccoli. cake. keyboard. pizza
+. person. baseball bat
+. keyboard. broccoli. cake. orange
+. cake
+. apple. broccoli. cake
+. person. wine glass
+. hot dog
+. person
+. person. wine glass
+. wine glass. person
+. apple. sandwich. orange. cake. chair. bowl. keyboard
+. person. wine glass
+. person. baseball glove
+. person. baseball glove
+. keyboard. apple. couch
+. person. baseball glove
+. pizza. keyboard. orange
+. keyboard. person. bed
+. bed
+. banana. bed. broccoli
+. person. cup
+. person. cup
+. person. cup
+. cup. person
+. person. cup
+. pizza. person. laptop
+. person. cup
+. person. cup
+. person. knife
+. person. cup
+. knife. apple. orange. dining table. person
+. person. cup
+. mouse. sports ball. skis
+. sandwich. potted plant. banana
+. person. cup
+. sink. knife. tv
+. sink. refrigerator. book. vase. clock
+. person. fork
+. person. fork
+. fork. person
+. laptop. tv. keyboard. toilet
+. toilet. tv. bowl. person. handbag. sink. knife. banana
+. tv. person. clock
+. person. surfboard
+. sink. person. toilet. tennis racket
+. person. tennis racket
+. skateboard. person. tennis racket. bottle
+. person. bird. bottle
+. car. person. tennis racket
+. person. fork. skateboard
+. keyboard. knife. banana. apple. orange
+. refrigerator. bird. person. keyboard
+. person. orange. dining table. broccoli
+. broccoli
+. scissors. person
+. teddy bear. banana
+. banana
+. banana. scissors. person
+. person
+. person
+. person
+. person
+. person
+. cake. orange. broccoli. chair. keyboard
+. keyboard. apple. sandwich. broccoli
+. person. bowl. boat. knife. pizza. dining table. keyboard
+. person. sports ball
+. knife. toilet. person. bowl. dining table. teddy bear. banana. keyboard
+. knife. person. broccoli. hair drier. orange. banana
+. knife. teddy bear. toilet. keyboard. hair drier
+. bicycle. car
+. oven
+. oven
+. airplane. surfboard
+. person. oven
+. motorcycle. person
+. car. motorcycle. traffic light. person. bicycle. truck. skis
+. motorcycle. car. person. truck
+. motorcycle. person
+. motorcycle. handbag. skis
+. sink. hot dog. donut. broccoli. tv. knife. person
+. airplane. person. truck
+. airplane. truck. person
+. airplane. person. skis
+. airplane. person. handbag
+. airplane
+. backpack
+. car. truck. traffic light
+. person
+. horse. person. bird
+. bus. person. handbag. car
+. car. bus
+. person. bus. handbag
+. backpack
+. backpack
+. traffic light. person. car
+. bird. boat
+. bus. person. snowboard
+. fire hydrant
+. car. motorcycle. bus. person
+. car. bus. person. fire hydrant
+. backpack
+. fire hydrant
+. car. fire hydrant. person. snowboard. handbag
+. bus. person. traffic light
+. car. bird. bus
+. car. fire hydrant. person
+. car. bus. person. skis
+. bus. person. knife
+. backpack
+. backpack
+. sheep. person
+. traffic light
+. cat
+. laptop. train. person. snowboard. skis. bird
+None
+. parking meter. truck
+. parking meter. person
+. train. person. traffic light. skis
+. train. person. handbag. sports ball. scissors
+. truck
+. car. truck. person. bird
+. dog. tie
+. dog. sports ball. handbag. skis
+. truck. person
+. boat. person
+. elephant
+. boat
+. snowboard. person. toilet
+. snowboard. scissors. person
+. person. skis. tie
+. tie. person. bird. bear. skis. keyboard
+. handbag. sports ball
+. boat
+. bear
+. knife. person. handbag. sports ball
+. tie. truck. person. car
+. car. zebra
+. horse. kite
+. horse. toilet. keyboard. person. dining table. knife
+. zebra
+. zebra
+. kite. person. handbag
+. person. kite
+. giraffe
+. giraffe
+. giraffe. backpack
+. giraffe
+. giraffe
+. sheep. person
+. sheep. person
+. sheep. bicycle. bird. person. tie
+. sheep
+. sheep
+. mouse. knife
+. keyboard. person. banana. bicycle. carrot. toilet
+. person
+. person. baseball bat. handbag
+. knife. orange. broccoli. cake. banana. chair
+. cake. chair
+. baseball bat. person
+. person. cake. toilet
+. person. handbag. baseball bat
+. pizza. knife. toilet. keyboard. apple. sandwich. person. chair
+. person. baseball bat
+. toilet. person. banana. orange. broccoli. keyboard. chair
+. apple. broccoli. couch
+. person. baseball glove
+. person. baseball glove
+. pizza. keyboard. person. bowl. banana. apple. sandwich. orange. broccoli
+. pizza. person. bird
+. couch. person
+. person. bed
+. person. bed. dining table
+. knife. tie. dining table. person. orange. keyboard. bicycle
+. person. apple. broccoli. dining table. teddy bear. hair drier. toothbrush. sandwich. orange. donut. toilet
+. keyboard. knife. pizza. sandwich. bowl
+. person. cup. handbag
+. snowboard. skateboard. person
+. dog. mouse
+. sandwich. potted plant. broccoli. keyboard
+. dog. mouse
+. potted plant. toilet. keyboard. apple
+. dog. mouse
+. person. fork
+. skateboard. fork. person
+. person
+. tv. toilet. refrigerator
+. sink. tv. clock. hot dog. person. keyboard. scissors
+. toilet. mouse
+. sink. tv. scissors. laptop. keyboard
+. sink. tv. keyboard
+. person. clock
+. person. laptop. clock
+. tv. person. clock
+. tv. person. clock. banana. toilet
+. sink. person. scissors. book. vase. skis. banana
+. knife. tv. bowl. horse. toilet. laptop. clock. banana. keyboard
+. person. horse. surfboard. handbag
+. surfboard
+. laptop. person. refrigerator. book
+. tennis racket. bottle. person
+. person. tennis racket
+. tennis racket. bottle. person
+. person. fork. toilet. keyboard
+. tv. keyboard. person. bird
+. person
+. person. mouse
+. knife. toilet. keyboard. person. scissors. banana. broccoli
+. toilet. person. knife
+. knife. hair drier
+. hair drier. person
+. person
+. person
+. person. scissors. skis
+. laptop
+. keyboard. person. apple. sandwich. knife. banana. broccoli. pizza. dining table. laptop
+. keyboard. broccoli. bed. refrigerator
+. toilet. keyboard. person. banana. sandwich. bowl. apple. broccoli
+. knife. keyboard. bird. handbag. skis. person. pizza. toilet. banana
+. toilet. keyboard. person. bowl. apple. sandwich. scissors. orange. tie. broccoli
+. orange. hair drier. teddy bear
+. person. kite. bench
+. oven. knife. person
+. laptop. oven. broccoli
+. knife
+. oven. person. knife
+. toilet. bicycle. car. knife
+. bicycle. scissors
+. sheep. bicycle. traffic light. person
+. oven
+. orange. dining table. broccoli. keyboard. banana
+. oven
+. motorcycle. person
+. motorcycle
+. oven
+. dog. broccoli. keyboard
+. dog. broccoli
+. mouse
+. person. skis. train
+. sink. person. refrigerator. tv
+. airplane. person. truck. skis
+. airplane
+. airplane
+. traffic light. car. truck
+. airplane
+. cat. elephant. backpack
+. car. bus
+. bird. person
+. person. motorcycle. fire hydrant. bench. car
+. cat. dog. bicycle
+None
+. cow
+. backpack
+. cat
+. cat
+. cat. knife. toilet. person. keyboard
+. cat. bird
+. cat
+. cat
+. cat
+None
+. truck
+. horse. dog
+. person. laptop. elephant
+. elephant. person. handbag
+. dog. keyboard. bowl. person
+. dog
+. dog. tv. clock
+. elephant
+. knife. boat. person. banana. skis. bowl
+. tie. person
+. boat
+. bear
+. bear
+. knife. tie. person
+. sports ball
+. person. sports ball
+. zebra
+. zebra
+. kite. person
+. giraffe
+. person. kite
+. sheep. car. bus. person
+. sheep. person
+. sheep. person. laptop
+. sheep
+. person. bottle
+. skateboard. person. bottle
+. person. baseball bat. baseball glove
+. keyboard. cake. broccoli
+. person. wine glass. handbag. bird. skis
+. person. wine glass
+. person. wine glass. handbag
+. person. wine glass
+. toilet. person. wine glass. tv
+. sandwich. clock. vase
+. baseball glove. person. baseball bat. toilet
+. keyboard. sandwich. chair
+. person. wine glass. car
+. person. wine glass
+. person. wine glass
+. person. wine glass. bicycle
+. wine glass. person
+. baseball glove. person
+. person. baseball glove
+. keyboard. carrot. pizza
+. dining table. vase. apple. keyboard. refrigerator
+. person. cup
+. person. cup
+. person. dining table
+. boat. person. cup
+. person. cup
+. person. cup
+. person. cup
+. person. cup
+. person. cup
+. tv. mouse
+. mouse. toilet
+. mouse
+. mouse. toilet
+. cup. person
+. toilet. apple. sandwich. potted plant. banana. laptop. keyboard. knife. bowl. broccoli. person
+. skateboard. person. fork
+. sink. bowl. banana. toilet. knife
+. sink. person. vase. laptop. mouse. clock. tv
+. truck. surfboard. car
+. person. surfboard
+. person. tennis racket. bottle
+. person. tennis racket. bottle
+. tennis racket. bottle. person. skateboard. toilet
+. tennis racket. person. toilet. bottle
+. person. fork
+. person. banana. apple. potted plant. sandwich. keyboard
+. keyboard. potted plant. bowl. sandwich. broccoli
+. skateboard. person. fork
+. laptop
+. refrigerator. book. banana. toilet. person
+. broccoli. truck
+. refrigerator. person. skis
+. person. teddy bear
+. scissors. person. toilet
+. dog. scissors. clock
+. scissors. person
+. person
+. person. tv
+. person. keyboard
+. person. bird
+. motorcycle. person. tie. skis
+. motorcycle. person. handbag
+. person. kite
+. skateboard. person
+. person. teddy bear. hair drier. skis
+. skis. teddy bear. knife
+. oven. knife
+. bicycle. car. motorcycle. bus. person. truck. bird
+. toilet. oven
+. oven
+. tie. snowboard. person. car
+. oven
+. truck. person. surfboard
+. surfboard. car. traffic light
+. broccoli. hot dog. donut
+. airplane
+. airplane
+. airplane
+. cow
+. backpack
+. backpack
+. horse. truck. person. bird. bicycle. traffic light. tie. parking meter
+. car. traffic light
+. car. traffic light. truck
+. car. traffic light. fire hydrant
+. car. traffic light
+. cow
+. car. truck. traffic light
+. car. bus. person. truck. traffic light
+. bus. truck
+. fire hydrant. person. car. bus. handbag
+. cow
+. person. backpack
+. person. bird. handbag
+. cow
+. backpack
+. bicycle. car. truck. skis. person. bus. handbag. tie. parking meter
+. boat
+. car. traffic light. truck
+. parking meter. car. bus
+. person. train
+. dog. sink. refrigerator
+. dog. hot dog
+. elephant
+. person. boat. tie. bird. scissors
+. dog. person. refrigerator
+. snowboard. person
+. snowboard. person
+. bear
+. tie. person. skis. handbag
+. person. bear
+. boat. person
+. person. skis. tie. toilet
+. bear
+. bird. bear. handbag. person
+. tie. person
+. knife. bowl. banana
+. skis. sports ball. person
+. zebra
+. zebra
+. horse. car
+. horse. person. kite
+. giraffe
+. giraffe
+. giraffe
+. sheep. person
+. sheep. person
+. sheep. person. bus. snowboard
+. sheep. person
+. person. baseball bat
+. banana. broccoli. carrot
+. carrot. keyboard
+. person. wine glass
+. orange. cake
+. knife. bowl. keyboard. toilet
+. person. wine glass. bird
+. person. wine glass
+. baseball bat. person. baseball glove
+. person. baseball bat
+. person. handbag. baseball bat
+. person. baseball glove. car
+. person. couch
+. pizza. broccoli. keyboard. sandwich. toilet
+. horse. knife. keyboard. person. banana. bed. dining table. sandwich
+. pizza. person. sandwich. broccoli
+. sink. banana. potted plant. keyboard
+. knife. keyboard. person. banana. apple. sandwich. orange. broccoli. cake. pizza
+. person. cup
+. cup. person
+. person. cup
+. person. cup
+. cup. person
+. person. cup
+. sandwich. potted plant. keyboard
+. knife. person. apple. sandwich. broccoli. banana. chair. potted plant. keyboard
+. skateboard. person. fork
+. keyboard. person. bowl. potted plant. toilet
+. sink. scissors. book. vase. refrigerator. clock
+. person. clock
+. person. surfboard
+. surfboard. person
+. car. truck. person. skis. surfboard
+. bicycle. person. surfboard
+. person. tennis racket. car. bottle
+. tennis racket. bottle. person
+. potted plant. keyboard
+. knife. keyboard. potted plant
+. potted plant. knife
+. person. fork
+. fork. knife
+. refrigerator. person
+. potted plant. hair drier
+. person
+. scissors
+. scissors. person. banana. hair drier
+. hair drier. toilet. knife
+. knife
+. knife
+. knife. car. person. bird. cat. handbag. skis
+. donut
+. sandwich. keyboard
+. keyboard
+. keyboard. bicycle. car
+. person
+. sink. tv. tie. bowl. toilet. person
+. scissors. person. bird
+. knife. person. sandwich. broccoli. teddy bear. banana
+. person. wine glass
+. broccoli. skis. person. car. orange. laptop. pizza
+. dog. oven
+. bicycle. car. bus. person. traffic light. truck
+. bicycle. train
+. bicycle. motorcycle. person. truck. bird
+. oven
+. horse. car. person
+. bus. person. bird
+. oven
+None
+. car. motorcycle. person
+. broccoli. dining table. bed
+. car. motorcycle. person
+. motorcycle. person. bus
+. motorcycle
+. sink. knife. toilet. mouse. refrigerator. handbag. skis. sports ball. laptop
+. sink. person
+. airplane
+. backpack
+. train. person. traffic light. skis
+. person. backpack. skis
+. backpack
+. bus. bird. person. skis
+. bus. person. skis. tie. traffic light
+. traffic light
+. person. backpack
+. car. traffic light. fire hydrant. person
+. cow
+. car. traffic light
+. person. backpack
+None
+. cat
+None
+. parking meter. car
+None
+. fire hydrant. car. parking meter
+. train
+. horse. bird
+. person. car. parking meter
+. cat
+. cat
+. car
+None
+None
+. train
+. train
+. train
+None
+. parking meter. car. truck. person
+. parking meter
+. car. person. skis. bench
+. truck. person. car
+. airplane. truck
+. car. truck. traffic light. person. bus. apple. sandwich
+. elephant. person
+. dog. tv. refrigerator
+. boat. person
+. elephant
+. snowboard. person
+. snowboard. person
+. snowboard. person
+. tie. person. scissors
+. bear. person
+. bear
+. snowboard. person
+. tie. person. truck
+. skateboard. zebra
+. horse. tv. mouse
+. giraffe
+. kite. person
+. person. kite
+. giraffe
+. sheep
+. person. baseball bat. baseball glove. handbag
+. carrot. donut
+. person. donut. hot dog
+. person. carrot. hot dog
+. donut
+. skateboard. person. bottle. knife
+. skateboard. person. bottle
+. sandwich. cake
+. broccoli. cake. chair. orange
+. person. wine glass
+. car. person. wine glass. traffic light
+. orange. broccoli. chair
+. pizza. orange. person. apple
+. banana. chair
+. person. snowboard. sandwich. dining table. bowl. keyboard
+. car. person. baseball bat
+. pizza. banana. keyboard
+. toilet. person. couch. keyboard
+. person. couch
+. person. baseball glove
+. banana. bed. keyboard
+. laptop. toilet. person. bed. keyboard
+. boat. cup
+. person. cup
+. skateboard. person. bird
+. mouse. toilet. book. vase. banana. sink. refrigerator
+. skateboard. person
+. person. cup. tie
+. dining table. knife
+. mouse. clock. scissors
+. mouse. toilet. knife
+. apple. potted plant
+. potted plant
+. tv. toilet
+. laptop. toilet. person. clock. bowl
+. sink. tv. skis. dog. banana
+. tv. toilet. clock. keyboard
+. sink. banana. refrigerator. vase. book
+. sink. toilet. scissors. book. vase
+. surfboard. person. tie
+. person
+. person. tennis racket
+. skateboard. car. person. tennis racket
+. tennis racket. person. bottle
+. tennis racket. person. snowboard. skateboard. bottle
+. skateboard. person. tennis racket. bottle. bird
+. fork. person. skateboard
+. person. fork
+. fork. laptop. banana
+. snowboard. car. person. truck
+. person
+. knife. vase
+. vase. person
+. laptop
+. apple. sandwich. orange. broccoli. keyboard. toilet
+. scissors. toilet. person
+. person. scissors
+. tv. scissors. person
+. person
+. car. boat. person. truck. bird
+. person. toilet
+. snowboard. person
+. toilet. keyboard. person. broccoli. hot dog. donut. teddy bear. bowl. hair drier. knife. orange. banana
+. person. sandwich. toilet. orange. hair drier
+. toilet. keyboard. hair drier. banana. broccoli. laptop. teddy bear
+. person. backpack
+. oven. person
+. oven
+. bicycle. person
+. person
+. bicycle. bus. person
+. oven
+. car. motorcycle. person
+. person. truck
+. motorcycle
+. car. motorcycle
+. motorcycle. person
+. dog
+. toilet. broccoli. bird
+. sink. mouse. toilet. person. handbag
+. person. cat
+. giraffe. backpack
+. traffic light
+. airplane. person
+. person. bird. car. handbag. cat
+. cow
+. bus. car
+. cow
+. backpack
+. person. backpack
+. fire hydrant
+. car. bus. person. handbag. truck
+. bus. person
+. car. fire hydrant
+. fire hydrant
+. car. person. bus
+. cow. person. car
+. backpack
+. horse
+None
+. truck
+. car. traffic light
+. train. parking meter
+. train. person
+. traffic light. train
+None
+. parking meter
+. train. toilet
+. elephant. person
+. car. truck
+. dog. skis. sports ball
+. dog. toilet. keyboard. apple. sandwich
+. car. truck. person
+. dog. person. pizza. tv
+. cow. elephant. truck
+. dog. laptop
+. car. truck. person
+. car. truck. person
+. person. scissors. boat
+. boat. person. tie. toilet. keyboard
+. boat
+. snowboard. person
+. bear
+. person. bear
+. tie. toilet. person. skis. handbag
+. person. traffic light. handbag. sports ball
+. horse. person. cup
+. tie. person. skis
+. horse. kite
+. horse
+. horse. person. cat
+. boat. person. horse
+. sheep. person
+. sheep
+. person. cup
+. skateboard. bottle. person
+. potted plant
+. keyboard. toilet
+. person. baseball bat
+. cake
+. keyboard. apple. broccoli. chair. cake
+. person. baseball bat
+. person. baseball bat. car
+. person. baseball bat. baseball glove
+. person. wine glass
+. person. wine glass
+. pizza. keyboard. banana. couch
+. person. baseball glove. bird
+. pizza. knife. bowl. apple. sandwich. keyboard
+. sink. tv. person. bed
+. cup. person
+. person. dining table. tv
+. person. cup
+. dog. mouse
+. person. cup
+. cat
+. person. cup
+. mouse. person
+. snowboard. person. dining table. toilet
+. person. cup
+. sink
+. knife. keyboard. person. broccoli. potted plant
+. toilet. tv. keyboard. person. refrigerator. clock. teddy bear. banana. laptop
+. clock
+. sink. dog. truck. person. toilet. clock. tv
+. person. surfboard. skis
+. person. surfboard
+. skateboard. person. tennis racket
+. person. tennis racket. bottle
+. person. fork. toilet
+. person. fork
+. knife. toilet. person. banana. refrigerator. vase. car. apple. keyboard
+. person. teddy bear. hair drier
+. laptop. refrigerator. keyboard. toilet
+. potted plant. hair drier
+. hair drier. person
+. person. car. truck
+. car
+. car
+. dog. knife. keyboard. bowl. laptop
+. person
+. pizza. toilet. keyboard. apple. sandwich. couch
+. tv. keyboard. person. scissors. banana. orange. broccoli
+. person. knife. banana. keyboard
+. knife. keyboard. person. pizza. sandwich. teddy bear. couch. hair drier. banana. broccoli
+. bicycle. boat. knife
+. horse. bicycle. person
+. person. oven
+. bicycle. car. person. traffic light
+. oven. banana
+. bicycle. person. scissors. handbag
+. oven
+. knife. oven
+. bicycle. person. traffic light. car. bus
+. bus
+. scissors
+. oven. person
+. motorcycle. person
+. motorcycle. person
+. motorcycle. person
+. sink. person
+. sink
+. bicycle. car. bus. handbag. traffic light. tie. person
+. person. bird
+. airplane
+. person. bird
+. airplane
+. airplane
+. traffic light
+. airplane
+. motorcycle. bus. person. skis. bicycle. car. truck
+. bird
+. car. fire hydrant
+. bird
+. fire hydrant
+. car. airplane. person. traffic light. toilet. keyboard
+. parking meter
+. backpack
+. cat
+None
+. bus. tie. scissors. person. skis
+. snowboard. person
+. laptop. car. person. traffic light. knife. bus
+. train. person
+None
+. train. person
+. bench
+. dog. mouse
+. elephant
+. truck. person. car
+. elephant. cow
+. elephant
+. boat. person
+. person. skis. bear. horse. handbag
+. person. bear
+. snowboard. person
+. bear. car. person
+. tie. toilet
+. person. bear
+. boat
+. person. tie
+. horse. kite
+. car. person. handbag. skis. sports ball
+. horse. car. person. fire hydrant. skis. fork
+. zebra
+. horse. person. toilet
+. zebra
+. person. kite
+. horse. mouse
+. sheep. person
+. person. sheep
+. laptop. sheep. toilet. bicycle. person. tie. skis
+. sheep. person
+. sheep. person
+. sheep. person
+. sheep. person
+. apple. donut. keyboard
+. horse. person. skateboard. bottle
+. person. bottle
+. car. train. truck. wine glass. person
+. cake. chair
+. pizza. banana. apple. keyboard
+. banana. vase. book
+. person. wine glass
+. person. baseball glove
+. person. chair. couch. skis. keyboard
+. toilet. keyboard. person
+. person. bed. broccoli. scissors. orange
+. bed
+. person. cup
+. bowl. banana. bed. apple. keyboard. person
+. person. cup
+. person. bed. sink. banana
+. keyboard. pizza. bowl. refrigerator
+. keyboard. pizza. banana. apple. broccoli
+. person. cup
+. sandwich. dining table. keyboard. chair
+. knife. mouse. bowl. banana. clock. toilet
+. mouse
+. laptop. toilet. mouse
+. person. cup
+. person. dining table
+. mouse. toilet
+. person. banana. apple. sandwich. potted plant. bowl
+. dog. mouse. skis
+. mouse
+. mouse. person
+. skateboard. person. fork
+. person. apple. sandwich. orange. potted plant. keyboard
+. laptop. sink. toilet. tv
+. skateboard. person. fork
+. skateboard. person. fork
+. skateboard. person. fork
+. banana. clock. toilet. tv. keyboard
+. keyboard. person
+. person. clock. tv
+. person. skis. sports ball. scissors
+. sink. tv. banana. toilet. laptop
+. person. skis. surfboard
+. person
+. person. surfboard
+. person
+. person. tennis racket. bottle
+. skateboard. person. fork. toilet
+. skateboard. person. fork
+. person. fork
+. person. fork
+. toilet. keyboard
+. person. banana. refrigerator
+. scissors. person. refrigerator. toilet
+. person. refrigerator. tv
+. knife. person. bowl
+. toilet. person. refrigerator. clock. knife. vase. banana
+. knife. snowboard. person. bowl. keyboard. sink
+. scissors. person. bowl
+. scissors. person
+. scissors
+. knife. hair drier
+. hair drier. person. teddy bear. hot dog
+. hot dog
+. hot dog
+. banana. apple. orange. sandwich. sports ball
+. bicycle. person. traffic light
+. laptop. toilet
+. knife. person. apple. keyboard. banana. toilet. potted plant
+. keyboard. banana. broccoli. bowl
+. person. laptop. knife
+. knife. person. bowl. apple. keyboard
+. knife. person
+. scissors. person. bowl. broccoli. knife. keyboard
+. knife. sandwich. keyboard. toilet
+. knife. snowboard. keyboard. person. banana
+. person. sports ball. parking meter. skis
+. person. hair drier. skis. knife. banana
+. person. orange. broccoli
+. knife. toilet. bowl. hair drier
+. person. oven
+. knife. person
+. oven
+. book
+. tv. keyboard. person. toilet
+. dog. knife. oven
+. oven
+. car. motorcycle. person
+. car. motorcycle. person
+. toilet. person. banana. refrigerator. book. vase. snowboard. broccoli. keyboard. knife
+. car. motorcycle. person. truck
+. sheep. motorcycle. person. traffic light. car. handbag. laptop. truck
+. toilet. airplane. bird
+. car. person. bird
+. airplane
+. cow. person
+. airplane. person
+. cow. boat
+. cow
+. backpack
+. backpack
+. cow
+. bus. person. skis
+. car. fire hydrant. parking meter
+. cat. keyboard. orange
+. car. person. motorcycle. bus. skis
+. cat
+. cat
+. horse. boat. person. car. truck
+. person. bird. skis. handbag
+. train. bird
+. car. train. truck
+. parking meter
+. person. car
+. knife. scissors. skis. sheep
+. horse. dog. tv
+. dog
+. elephant
+. elephant
+. dog. bicycle. potted plant. refrigerator. vase. sports ball. book. scissors
+. truck
+. snowboard. person
+. tv. snowboard. person. toilet
+. boat. person
+. snowboard. person. car
+. snowboard. person
+. bear
+. refrigerator. vase. sports ball. mouse. toilet. book
+. person. handbag. sports ball. toilet. scissors. skis
+. tie. car. skis. bicycle. person. toilet. keyboard. handbag
+. sheep. toilet. keyboard. car. person. tie. skis. bicycle
+. car. person. kite
+. horse. tv. clock
+. giraffe. elephant
+. horse
+. tv. person. skis. banana. horse
+. giraffe
+. sheep. person
+. sheep. car
+. sheep
+. sheep
+. broccoli. donut. hot dog
+. person. baseball bat. handbag
+. scissors. carrot. refrigerator. keyboard. book
+. person. carrot. hot dog. donut
+. carrot. knife
+. person. cake
+. person. baseball bat
+. orange. broccoli. chair
+. car. person. wine glass
+. person. baseball bat. baseball glove
+. baseball glove. person
+. banana. potted plant. keyboard. person
+. potted plant
+. bed
+. sandwich. keyboard. pizza
+. person. cup
+. person. dining table. sandwich
+. cup. person
+. person. cup
+. mouse
+. mouse. clock
+. mouse. toilet. knife. sink
+. mouse. car. toilet. keyboard. scissors
+. banana. potted plant. keyboard
+. person. fork
+. person. fork
+. knife. toilet. bowl. banana. laptop. keyboard
+. potted plant
+. person. fork
+. tv. toilet. keyboard
+. tv. person. clock
+. laptop. sink. toilet. tv. broccoli. keyboard
+. laptop. sink. tv. clock. banana. broccoli. toilet
+. toilet
+. person. surfboard
+. surfboard
+. surfboard
+. person. knife
+. surfboard. person. car
+. toilet. person. tennis racket
+. toilet. person. tennis racket. bottle. skateboard
+. keyboard. person. potted plant
+. knife
+. knife. toilet. person
+. scissors. person. refrigerator
+. scissors. person. sports ball
+None
+. sports ball
+. sports ball
+. sports ball
+. sports ball. bus
+. bus
+. bus
+. keyboard. banana. apple. sandwich. broccoli. knife
+. toilet. keyboard. person. bowl. banana. apple. sandwich. chair. scissors. bed. pizza
+. pizza. hair drier
+. tie. skis. person
+. person. toilet. keyboard. banana. sandwich. orange. broccoli
+. toilet. teddy bear. hair drier
+. laptop. knife. sandwich. broccoli. banana. hot dog. hair drier. bowl. orange. teddy bear
+. knife. keyboard. person. banana. broccoli. refrigerator. hair drier. orange
+. hair drier
+. dog. oven
+. bicycle. tie
+. oven. knife
+. oven. banana
+. bicycle. person. handbag. skis
+. dog. car
+. snowboard. car. person
+. car. person. bus
+. car. truck. cup. person. bus
+. dog
+. oven
+. oven
+. oven
+. person. car
+. motorcycle. person
+. toilet. sink. book. vase
+. motorcycle. person. car
+. airplane
+. airplane
+. cat. car. person. bird
+. traffic light
+. traffic light. fire hydrant. person
+. bird
+. person. bus
+. bird
+. backpack
+. truck
+. cat. person
+. car. traffic light
+. cat
+. truck
+. cat
+. traffic light. train
+. train. person
+. train
+. train. person. car
+. parking meter
+. horse. person. handbag. bench. bicycle
+. car. truck. bench. person
+. car. bench. truck
+. elephant
+. truck. bird
+. horse. car. person. handbag. bench
+. truck. car
+. car. truck. person
+. elephant. person
+. boat
+. horse. toilet. person. tie
+. snowboard. skis. person
+. tie. scissors. person. skis. truck
+. boat. person. tie
+. cat. boat. person
+. tie. person. scissors
+. toilet. tie. person. keyboard
+. horse. bicycle. person. skis. bench
+. horse. knife
+. horse. kite
+. person. snowboard. handbag. airplane. truck. sports ball
+. person. kite
+. kite. person
+. horse. mouse
+. horse
+. horse
+. person. laptop. kite
+. sheep. person
+. boat. person
+. sheep. truck
+. sheep
+. sheep. person
+. person. carrot. hot dog. donut. skis
+. person. bottle. skateboard
+. person. skateboard. bottle
+. person. bottle
+. skateboard. bottle. person
+. pizza. keyboard
+. pizza
+. knife. toilet. keyboard. person. tie. banana. chair
+. chair
+. wine glass. person
+. toilet. keyboard. banana. sandwich. dining table
+. person. baseball glove. truck
+. person. baseball glove
+. couch. skis. person. car
+. person. potted plant. keyboard. skis
+. keyboard. person. banana. carrot. dining table
+. pizza
+. keyboard. bicycle. car. person. tie. banana. couch. toilet
+. pizza. apple. broccoli. chair. keyboard
+. person. cup
+. person. cup
+. knife. toilet. keyboard. person. tie. banana. apple. bicycle. pizza
+. toilet. keyboard. person. orange. dining table. apple. skis
+. skateboard. person. bird
+. apple. dining table. keyboard
+. person. cup
+. banana. broccoli. dining table. orange
+. potted plant. person
+. toilet. keyboard. person. banana. potted plant
+. tv. car. toilet. person. fire hydrant. sports ball
+. vase. book
+. sink. toilet. keyboard. snowboard. tv
+. tv
+. person. skis. surfboard
+. surfboard. person
+. person. tennis racket. bottle. toilet
+. skateboard. person. tennis racket. bottle
+. bowl. refrigerator. book. vase. banana. sink
+. sink
+. sandwich. teddy bear. banana. hair drier. knife
+. scissors. person
+. scissors. banana. person
+. scissors
+. scissors. person
+. person. hair drier
+. person
+. person. car
+. person. keyboard
+. keyboard
+. keyboard
+. keyboard
+. toilet. person. keyboard
+. keyboard. bowl
+. bowl. person. broccoli. knife. banana. keyboard
+. toilet. tv. person. refrigerator. book. keyboard
+. person
+. oven
+. laptop. oven
+. bicycle
+. oven
+. oven
+. scissors. car. truck. person
+. person. oven
+. car. person. cup
+. oven
+. oven
+. broccoli. carrot
+. keyboard. clock. bed
+. motorcycle. person. car
+. bicycle. motorcycle. person. skis
+. motorcycle. person. skis
+. airplane
+. car. bus. traffic light. person. truck
+. horse. person. bird
+. car. truck. bus
+. backpack
+. backpack
+. bus
+. cow. person. broccoli
+. car. fire hydrant. truck
+. toilet. car. cat. keyboard. bird. handbag. person. skis. apple
+. cow
+. scissors. person. bicycle. toilet. bird
+. car. bus. person. bicycle. truck
+. bus. person
+. car. bus. person. tie. traffic light
+None
+. cat. boat
+. train. person. skis
+. train. traffic light
+. truck. person. car
+. elephant
+. truck
+. car. truck
+. truck. person. traffic light
+. boat. person. tie
+. elephant
+. snowboard
+. snowboard. toilet. skis. person
+. tie. toilet. boat
+. bear
+. bear
+. horse. toilet. person
+. horse. knife. person. car
+. horse. toilet
+. sink. person. sports ball
+. horse. toilet. person
+. horse. mouse. skis
+. toilet. person. giraffe
+. horse. person. skis. handbag
+. horse. kite. car
+. sheep. person. car
+. sheep. person
+. sheep
+. sheep. person
+. sheep
+. person. baseball bat
+. skateboard. bottle. person
+. person. baseball glove
+. person. wine glass
+. person. wine glass. car
+. bed
+. laptop. person. banana. bed. knife
+. person. bed. toilet. keyboard
+. sandwich. broccoli. dining table. keyboard
+. person. cup
+. person. cup
+. person. orange. skis
+. knife. dining table
+. person. cup
+. laptop. banana. orange. person. broccoli
+. person. boat
+. mouse
+. sink. refrigerator. book. knife. vase
+. potted plant. keyboard
+. tv. toilet. clock
+. vase
+. tv. clock. toilet
+. skateboard. person. fork
+. keyboard. person. potted plant. toilet
+. person. fork
+. person. fork
+. skateboard. person. fork
+. skateboard. person. fork
+. knife. refrigerator. clock
+. refrigerator. banana. mouse. person. toilet. keyboard. tv
+. toilet. person. refrigerator. scissors. snowboard. skis
+. banana
+. banana. person
+. toilet. person
+. toilet. person
+. toilet. person. knife
+. person. skis
+. skis
+. knife. banana. apple. scissors
+. laptop. cat
+. tv. laptop
+. laptop
+. laptop
+. person. bowl. apple. broccoli
+. keyboard. bowl. orange. broccoli. hot dog. chair. banana
+. knife. scissors. banana. apple. orange. dining table. person. bowl. sandwich. keyboard
+. knife. bowl. skis. person. keyboard
+. person. bird. car
+. person. broccoli. donut. keyboard
+. sink. toilet. teddy bear. broccoli
+. knife. scissors. banana. teddy bear. hair drier
+. elephant. motorcycle. person
+. knife. keyboard. banana. sandwich. broccoli. donut. bowl
+. banana. knife. oven
+. laptop. bicycle. person. motorcycle
+. knife
+. oven
+. horse. car
+. oven
+. sink. banana. orange. refrigerator. vase. laptop. person. book
+. carrot. donut. broccoli
+. handbag. person. motorcycle. traffic light. toilet. keyboard
+. train. person. scissors. skis
+. sink
+. airplane
+. bench. bird
+. person. bird
+. traffic light. car
+. backpack
+. traffic light. person. car. truck. fire hydrant
+. car. traffic light. person. parking meter
+. fire hydrant
+. bird
+. car. fire hydrant. person. truck
+. cow. person
+. car. fire hydrant
+. person. bird. traffic light
+. parking meter. car. fire hydrant
+. cat
+. horse. fire hydrant. car
+. car. truck
+. bus. person
+. horse
+. train
+None
+. snowboard. person
+None
+. cat
+. parking meter. person. truck
+. parking meter
+. bench
+. elephant
+. boat
+. elephant. person
+. person. boat
+. boat. bird
+. person. boat. cup
+. boat
+. elephant. person. bear. bird
+. laptop. person. toilet. snowboard. keyboard
+. knife. snowboard. person
+. bear
+. person. bird. skis. tie
+. bear
+. person. bird. bear
+. sports ball
+. boat. person
+. motorcycle. person. tie. skis
+. horse. toilet. person. keyboard
+. dog. sports ball
+. person. sports ball
+. horse. broccoli
+. person. kite
+. giraffe
+. giraffe
+. giraffe
+. sheep. person
+. sheep. elephant. person
+. sink. person. book. vase. refrigerator. clock
+. apple. dining table
+. hot dog. donut. carrot. person
+. potted plant. hair drier
+. orange. cake
+. cake
+. donut. cake
+. person. bird. wine glass
+. sink. person. bowl
+. person. baseball bat
+. cake
+. person. wine glass
+. knife. banana. apple. broccoli. chair. keyboard
+. bicycle. wine glass. person
+. person. baseball bat. baseball glove
+. person. baseball glove
+. person. baseball glove. handbag
+. orange. person
+. tennis racket. person. toilet. skateboard
+. cup. person
+. skateboard. person
+. broccoli. sandwich. pizza. keyboard. couch
+. couch. person. dining table. hair drier. toilet
+. mouse. toilet. refrigerator. banana. person
+. person. dining table. keyboard
+. mouse. car
+. dining table. toilet. keyboard
+. knife. keyboard. bowl. potted plant
+. toilet. person. fork
+. knife. toilet. bowl. keyboard
+. person. clock. toilet
+. tv. toilet. person. broccoli. hot dog. donut. keyboard
+. person. clock
+. person
+. person. clock
+. mouse. person
+. skis. person. surfboard
+. person. surfboard
+. surfboard
+. person. tennis racket
+. person. tennis racket. bottle
+. skateboard. tennis racket. person. bottle. toilet. bird
+. knife. person. bowl. banana. broccoli. hair drier. potted plant
+. person. bicycle. bird. potted plant. car
+. skateboard. person. fork. toilet
+. skateboard. person. fork
+. refrigerator. book. sink
+. car. person. handbag. truck. skis
+. person. laptop
+. tv
+. scissors
+. person. broccoli. sandwich. orange. skis. banana. apple
+. person
+. person
+. person
+. person
+. banana. orange. dining table. sandwich. donut. knife. broccoli. keyboard
+. apple. orange. broccoli. keyboard. sandwich
+. laptop. toilet. keyboard. person. orange. knife. banana. apple. broccoli
+. knife. toilet. person. bowl. banana. broccoli. keyboard
+. knife. toilet. carrot. hot dog. donut. keyboard. hair drier. banana. broccoli
+. sink. handbag. skis. sports ball. person
+. sports ball. hair drier
+. knife. toilet. keyboard. hair drier
+. bicycle. boat
+None
+. boat
+None
+. bicycle. train. skis
+. dog. car
+. truck. cup. car. person
+. car
+. car
+. car. cat
+. sink. dog. toilet
+. motorcycle. person
+. horse. sink. toilet. person
+. car. airplane
+. airplane
+. airplane. person
+. cow
+. cat. bird
+. car. train. traffic light
+. boat. bird
+. backpack
+. car. bus. person
+. car. bus. motorcycle. person
+. bus
+. car. truck. traffic light. person. skis
+. truck. traffic light. person. fire hydrant
+. bird
+. cat. car. traffic light. truck
+. person. bird. banana. handbag
+. bus. person
+. car. person. bird. skis
+. bird
+. car. bus. person. handbag
+. horse. sheep. cow. person
+. cat
+. car
+. car
+. cat
+. train. person
+. parking meter. traffic light
+. train. person. handbag. skis. sports ball
+. car. train. truck. traffic light
+. car. bench. person. truck
+. truck
+. car. truck. traffic light
+. dog. person. handbag. toilet
+. dog. toilet
+. dog. toilet
+. dog. sports ball
+. dog. sports ball
+. dog. tv. toilet
+. laptop. dog
+. laptop. dog. broccoli
+. dog
+. car. boat. person. bird. handbag. toilet. skis
+. elephant
+. bear
+. person. snowboard
+. boat
+. toilet. person. tie. broccoli. keyboard. banana
+. snowboard. toilet. person
+. car. person. snowboard. toilet
+. knife. person. snowboard. boat
+. tie. person
+. person. tie. toilet
+. sports ball
+. tie. snowboard. person
+. tie. person
+. horse
+. tie. toilet
+. person. sports ball. orange
+. tie. toilet
+. bicycle. tie
+. tie. truck. person
+. person. kite
+. kite. person
+. knife. kite
+. cat. sheep
+. giraffe
+. giraffe
+. sheep. person
+. sheep. person
+. carrot. cake. person. hot dog
+. bowl. carrot
+. handbag. baseball bat. person
+. person. wine glass
+. bed. person
+. person. bed. skis
+. pizza. keyboard. apple. banana. orange. person
+. banana. bed. keyboard
+. pizza. person. apple
+. knife. pizza. banana. keyboard
+. skateboard. bird. person. knife. banana
+. person. boat. tie. cup. toilet. scissors
+. person. cup
+. cup. person
+. pizza. chair
+. tv. mouse. person. refrigerator. toilet
+. person. cup
+. mouse. scissors. skis
+. person. cup
+. skateboard. fork
+. scissors. refrigerator. book. handbag. skis
+. person. fork. car
+. person
+. book. vase. keyboard
+. keyboard. toilet. vase. banana
+. scissors. person. toilet
+. surfboard. person
+. bottle. person. skateboard
+. person. fork. toilet
+. toilet. banana. potted plant
+. banana. apple. potted plant. orange. keyboard
+. person. fork
+. person. refrigerator. toilet. vase. book
+. toilet. person. refrigerator. skis. banana. keyboard. snowboard. sink. scissors
+. toilet. person. refrigerator. skis
+. tie. skis. keyboard
+. keyboard. car. person. traffic light
+. person
+. toilet. keyboard. apple. broccoli. person. banana. boat. sandwich
+. sink. person. book. vase. toilet. scissors
+. knife. banana. horse. broccoli. hair drier
+. hair drier. toilet. keyboard. orange. toothbrush
+. hair drier. toilet. keyboard. person
+. knife
+. person. broccoli. keyboard
+. scissors. person. refrigerator
+. bicycle
+. bicycle. bowl
+. tie. banana. oven. knife
+. dog. oven
+. oven
+. car. motorcycle. person
+. toilet. motorcycle. laptop
+. motorcycle. person
+. train. person
+. person. bird
+. giraffe. backpack. person
+. airplane. boat. person
+. car. backpack
+. car. traffic light
+. person. backpack
+. bus. person. parking meter. car. bicycle
+. horse. fire hydrant
+. fire hydrant. person
+. person. skis. fire hydrant
+. bird
+. backpack
+. bus. person
+. cat. hot dog
+. parking meter. car
+. bus. skateboard
+. parking meter. car. truck. person
+None
+. cow. person
+. car
+. car. train
+. train
+. train. person
+None
+. train
+. truck. person
+. dog. snowboard
+. dog. sports ball
+. elephant
+. elephant
+. dog. mouse
+. sink. dog
+. elephant
+. horse
+. horse. dog. person
+. tv. sports ball. toilet
+. bear
+. horse. chair
+. zebra
+. giraffe
+. sheep. tie. skateboard. person
+. sheep. person. skateboard
+. person. bottle
+. boat. person. carrot
+. person. tennis racket. bottle
+. sandwich. donut. banana. keyboard
+. banana. carrot. hot dog
+. dining table. keyboard. apple
+. person. bottle
+. person. skateboard. bottle
+. person. bottle. skateboard. tennis racket
+. person. wine glass
+. person. baseball bat
+. person. baseball bat. handbag
+. person. baseball bat
+. person. baseball bat
+. cake. chair. toilet
+. hot dog
+. person. baseball bat
+. baseball bat. person
+. person. wine glass. truck
+. knife. pizza. bowl. broccoli. skis. keyboard
+. sink. toilet. banana. orange. refrigerator. book. vase. broccoli
+. orange. broccoli. chair. cake
+. broccoli. chair
+. person. wine glass
+. person. pizza
+. person. baseball bat. handbag
+. person. couch
+. baseball glove. person
+. pizza. keyboard
+. person. bird. cup
+. skateboard. person
+. skateboard. person
+. mouse. person
+. sink. toilet. book. vase. banana
+. toilet. person. fork
+. skateboard. toilet. person. fork
+. person. toilet. bird
+. toilet. person
+. tv. person. clock. toilet
+. sink. person. clock
+. laptop. bird. toilet. tv
+. sink. vase
+. refrigerator. book. vase. sink
+. sink. person. toilet. laptop
+. person. surfboard
+. person. surfboard
+. knife. skateboard. tennis racket. bottle. person
+. person. potted plant. bowl. apple. laptop
+. laptop. person
+. teddy bear. knife
+. scissors. person. skis
+. person. bird. handbag. skis. scissors
+. scissors. person
+. person. hair drier
+. hair drier
+. hair drier. knife. broccoli. toilet. keyboard
+. banana. clock
+. person. skis
+. banana. orange
+. orange. person
+. person
+. person. keyboard
+. keyboard
+. person. bird. handbag. toilet
+. tv. person. refrigerator. sports ball
+. knife. toilet. banana. bird. broccoli
+. bowl. hair drier. orange. toilet. laptop
+. scissors. person. orange. hair drier. knife
+. bicycle. car. bus. person
+. person. bicycle. horse
+. horse. person. bicycle. car
+. oven
+. knife. oven
+. banana. oven
+. oven
+. oven
+. oven
+. oven. person
+. motorcycle
+. oven
+. oven
+. motorcycle. person
+. motorcycle
+. motorcycle. boat. person
+. airplane
+. airplane. car
+. airplane. person. car. truck
+. bicycle. car. truck. traffic light. person. motorcycle. bus
+. backpack
+. person. backpack
+. bird
+. person. backpack. skis
+. bird
+. bird
+. car. bus
+. cow
+. car
+. cat. person. giraffe. backpack. skis. tie
+. cat
+. car. traffic light
+. traffic light
+. bus
+. tie. person
+. train. car
+. train. person. sports ball
+. train. person
+. train
+. train
+. train
+. train
+. train. traffic light
+. train. person. sports ball
+. train. truck
+. train. traffic light
+. parking meter
+. train
+. train. traffic light
+. train
+. bench
+. bus. truck
+. truck
+. dog
+. truck
+. dog. donut. refrigerator. hot dog. toilet. keyboard
+. elephant
+. elephant
+. horse. tv. snowboard. person
+. snowboard. person. bowl
+. tie. toilet. keyboard
+. person. handbag. sports ball. skis. sink
+. person. kite
+. person. kite
+. sheep
+. sheep. person
+. sheep. person
+. carrot. hot dog. donut
+. person. carrot. hot dog
+. carrot
+. person. baseball bat
+. person. baseball bat
+. person. baseball bat
+. person
+. wine glass. person
+. person. hot dog
+. person. wine glass
+. person. wine glass
+. person. wine glass
+. orange. chair
+. person. baseball glove
+. pizza. banana. sandwich. keyboard. person
+. person. baseball glove
+. couch
+. pizza. bowl. apple. keyboard. couch
+. person. baseball glove
+. person. bed. keyboard. toilet
+. knife. pizza. vase. refrigerator
+. motorcycle. person. cup
+. skateboard. person
+. person. dining table. snowboard. bowl. banana
+. keyboard. person. dining table. snowboard
+. person. cup
+. mouse. clock
+. knife. keyboard. bowl. banana. apple. sandwich. potted plant
+. sink. refrigerator. toilet. sports ball. knife. banana
+. person. fork
+. skateboard. person. fork. bird. handbag
+. laptop. sink. tv. keyboard. toilet. refrigerator. dog
+. scissors. car. person. skis. truck
+. person. baseball glove. surfboard. baseball bat
+. person. surfboard
+. person. surfboard
+. person. surfboard
+. tennis racket. bottle. person. bird. toilet
+. toilet. knife. bird. fork. person. handbag
+. laptop. knife. tv. person. potted plant. refrigerator. clock
+. person. potted plant. mouse
+. snowboard. keyboard. person. banana. potted plant
+. skateboard. person. fork. toilet
+. scissors
+. scissors
+. scissors. handbag. skis. person
+. person
+. laptop. bowl
+. laptop. toilet. keyboard
+. toilet
+. person. toilet
+. banana. couch
+. person. apple. sandwich. dining table. keyboard. banana. broccoli. toilet
+. car. airplane. person. truck
+. oven
+. toilet. oven
+. sink
+. person. oven
+. oven. banana
+. knife. oven
+. dog. car
+. car. traffic light
+. oven
+. motorcycle. person. sports ball
+. car. motorcycle. person
+. oven
+. motorcycle. traffic light. person
+. car. airplane. person
+. horse. cow
+. person. backpack
+. backpack
+. car. traffic light. person
+. car. bus. person. traffic light
+. bus. truck
+. fire hydrant
+. bus
+. bicycle. bus. skis. person
+. bus. truck. car
+. car. traffic light. person. parking meter
+. traffic light. person. car. truck
+. car. traffic light
+. cat
+None
+. cat
+. car. motorcycle. person. skis
+. person. skis. handbag. scissors
+. train. truck
+. train
+. train
+. train
+. parking meter
+. dog. bed
+. truck
+. elephant
+. boat. person
+. snowboard. person
+. snowboard. person
+. handbag. person. skis. tie
+. boat. cup
+. boat. person
+. person. bear
+. tie. person. skis
+. tie. person. snowboard
+. zebra
+. zebra
+. horse
+. giraffe. truck. car
+. giraffe
+. horse
+. sheep. person
+. sheep. truck. person
+. sheep. person
+. toilet. carrot. hot dog. donut. person
+. person. baseball bat
+. person. bottle
+. person. banana. bed. dining table. keyboard
+. skateboard. bird. bottle. knife. person
+. skateboard. person. bottle
+. skateboard. person. tennis racket. bottle
+. cake. chair
+. cake
+. cake. person. wine glass
+. person. baseball glove. baseball bat
+. person. wine glass
+. wine glass. person. skis
+. donut. chair. keyboard
+. couch. person
+. scissors. keyboard. person. orange. broccoli. dining table. teddy bear. banana. sandwich. sink. hair drier
+. person. cup
+None
+. person. cup
+. knife. banana. dining table. bowl. broccoli
+. toilet. keyboard. person. orange. broccoli. dining table
+. pizza. person. banana. snowboard. toilet. keyboard
+. person. cup
+. person
+. keyboard. dining table
+. mouse. toilet
+. person. cup
+. person. cup
+. potted plant. person
+. person. fork. skis
+. tv. clock. keyboard
+. laptop. toilet. tv. keyboard. clock. broccoli
+. person. clock
+. person. clock
+. sink. knife. toilet. person. banana. tv. clock
+. tv. keyboard. sink. toilet. book. vase
+. sink. tv. bicycle. clock. keyboard
+. person. handbag. surfboard
+. person. surfboard. bus. tie
+. tennis racket. bottle. person
+. potted plant. apple. sandwich
+. skateboard. car. person. fork
+. laptop
+. refrigerator. book. vase. knife. sink
+. tv. person. refrigerator. clock. mouse. hair drier
+. sink. refrigerator. clock. laptop
+. laptop. boat
+. hair drier. knife
+. knife
+. knife
+. knife
+. knife
+. knife. skateboard. hot dog
+. keyboard. banana. broccoli. apple
+. knife. sandwich. broccoli. donut. bowl. banana. orange. sink. person
+. knife. keyboard. person. bowl
+. sink. person
+. person. surfboard
+. person. bicycle
+. bicycle
+. car. motorcycle
+. dog. car
+. bird
+. sink. scissors. banana. refrigerator. vase. toilet
+. motorcycle
+. dog
+. bird. clock
+. bird
+. traffic light
+. backpack
+. backpack
+. car. person. bird. handbag
+. bus. person
+. bird. bottle
+. cat
+. cat
+. cat
+. dog
+. parking meter
+. horse. dog
+. dog. toilet
+. elephant
+. dog. keyboard. broccoli
+. dog
+. dog. vase
+. sink. dog. vase. refrigerator
+. boat. person. tie
+. person. bear
+. horse. person. skateboard
+. person. kite
+. horse. toilet. mouse
+. giraffe. cat
+. sheep. person
+. keyboard. carrot. donut
+. banana. donut
+. mouse. person. refrigerator
+. laptop. car. person. pizza. bowl. keyboard. scissors
+. sandwich. chair
+. sandwich
+. person. baseball glove
+. person. bed. toilet. tv
+. knife. pizza. person. sandwich
+. pizza. keyboard. banana. apple. sandwich. chair
+. knife. mouse. person
+. mouse
+. person. surfboard. cup
+. car. person. potted plant. truck
+. knife. clock. person. laptop. tv
+. person. cup. surfboard
+. toilet. refrigerator. book
+. skateboard. person. tennis racket. car. truck
+. person. tennis racket
+. person. tennis racket. bottle
+. potted plant. keyboard
+. keyboard
+. scissors. person
+. person
+. person
+. toilet. keyboard. bowl. person. laptop. snowboard. banana. sandwich
+. knife. keyboard. person. bowl. banana. sandwich. orange. broccoli. toilet
+. knife. person. bowl. banana. keyboard
