@@ -35,14 +35,11 @@ Due to the size of the perturbed data, we didn't provide the perturbed images, b
 
 ```
 python perturb_Flickr30K_IP.py  
-```
-```
+
 python perturbd_COCO_IP.py 
-```
-```
+
 python perturb_NLVR_IP.py 
-```
-```
+
 python perturb_VE_IP.py 
 ```
 
@@ -50,14 +47,11 @@ python perturb_VE_IP.py
 
 ```
 python perturb_Flickr30K_TP.py  
-```
-```
+
 python perturbd_COCO_TP.py 
-```
-```
+
 python perturb_NLVR_TP.py 
-```
-```
+
 python perturb_VE_TP.py 
 ```
 
