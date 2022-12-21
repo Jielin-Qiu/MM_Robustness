@@ -1,4 +1,4 @@
-# MM_Robustness_Benchmark
+# MM_Robustness
 
 The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reseaning, and visual entailment.
 
