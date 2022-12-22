@@ -36,16 +36,6 @@ If you feel our code or models helps in your research, kindly cite our papers:
   - NLVR2: https://lil.nlp.cornell.edu/nlvr/
   - SNLI-VE: https://github.com/necla-ml/SNLI-VE
 
-- The unperturbed test/val image data can also be downloaded from google drive: 
-
-  - Flickr30K: [test](https://drive.google.com/file/d/1UfoHywRWYgiE6NHh398yMQTzqKllvIZR/view?usp=sharing)
-  - COCO: [test](https://drive.google.com/file/d/1zPA3yiB3sXXdjLUV0bPkGqOX840MXoGH/view?usp=sharing)
-  - NLVR2: [dev](https://drive.google.com/file/d/10qRZP65Lhkww_Be5XLLM2AHsntgglwLN/view?usp=sharing), [test1](https://drive.google.com/file/d/1RhXAumgH_QGZa29BWqcqC19-cKpJf9fm/view?usp=sharing)
-  - SNLI-VE: [val](https://drive.google.com/file/d/14l1XdsFnpJcY7OOixL0xUqERc5QLefnI/view?usp=sharing)，[test](https://drive.google.com/file/d/1NyXK-Vw1UDQiZ-APqE5C92XI6Ip_HWMW/view?usp=sharing)
-
-- The unperturbed test/val text data can be found under `./original_annotation` 
-- The unperturbed test/val text data can also be downloaded from google drive: [TP-annotations](https://drive.google.com/file/d/1rTmYOasXACXm1PGcptOEDmuKqE6pQiPW/view?usp=sharing)
-
 
 ## Generate image perturbation (IP) dataset
 
