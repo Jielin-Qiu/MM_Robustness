@@ -21,7 +21,6 @@ If you feel our code or models helps in your research, kindly cite our papers:
 }
 ```
 
-
 ## Installation
 
 ```
@@ -36,7 +35,6 @@ If you feel our code or models helps in your research, kindly cite our papers:
   - NLVR2: https://lil.nlp.cornell.edu/nlvr/
   - SNLI-VE: https://github.com/necla-ml/SNLI-VE
 
-
 ## Generate image perturbation (IP) dataset
 
 - The stylize perturbation is based on [stylize-datasets](https://github.com/bethgelab/stylize-datasets) and [Stylized-ImageNet](https://github.com/rgeirhos/Stylized-ImageNet). You will need to download the models (vgg/decoder) manually from [pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) and move both files to the `stylize-datasets/models/` directory. You will need to download train.zip from [Kaggle's painter-by-numbers dataset](https://www.kaggle.com/c/painter-by-numbers/data).
@@ -44,6 +42,8 @@ If you feel our code or models helps in your research, kindly cite our papers:
 Due to the size of the perturbed data, we didn't provide the perturbed images, but they can be generated easily with the following command:
 
 ```
+cd image_perturbation
+
 python perturb_Flickr30K_IP.py  
 
 python perturbd_COCO_IP.py 
@@ -56,6 +56,8 @@ python perturb_VE_IP.py
 ## Generate text perturbation (TP) dataset
 
 ```
+cd text_perturbation
+
 python perturb_Flickr30K_TP.py  
 
 python perturbd_COCO_TP.py 
