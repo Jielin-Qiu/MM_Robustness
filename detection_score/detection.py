@@ -34,9 +34,13 @@ if __name__ == '__main__':
     
     parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
     parser.add_argument('--method', default='')
+    parser.add_argument('--input_path', default='')
+    parser.add_argument('--output_path', default='')
     args = parser.parse_args()
 
     method = args.method
+    input_path = args.input_path
+    output_path = args.output_path
     print("method:", method)
     
     config_file = "configs/pretrain/glip_Swin_L.yaml"
@@ -72,7 +76,7 @@ if __name__ == '__main__':
             
                 caption = prompt
             
-                image_name = './%s_generation_images_32/text_%s/%s.png'%(method,text_index,num_image)
+                image_name = '%s/text_%s/%s.png'%(input_path,text_index,num_image)
                 image = load(image_name)
                 result, top_predictions, new_labels = glip_demo.run_on_web_image(image, caption, 0.7)
             
@@ -93,8 +97,8 @@ if __name__ == '__main__':
         average_score = score_all/num_all 
         print("average score:", average_score) 
         
-        file_object = open('scores_0.7_%s.txt'%(method), 'a+', encoding="utf-8")
+        file_object = open('%s/scores_0.7_%s.txt'%(output_path,method), 'a+', encoding="utf-8")
         file_object.write(str(num_all) + '\n')
         file_object.write(str(score_all) + '\n')
         file_object.write(str(average_score) + '\n')
-        file_object.close()    
+        file_object.close()
