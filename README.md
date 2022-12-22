@@ -1,6 +1,6 @@
 # MM_Robustness
 
-The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reseaning, and visual entailment.
+The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reseaning, visual entailment, image captioning, and text-to-image generation.
 
 ## Citation
 
