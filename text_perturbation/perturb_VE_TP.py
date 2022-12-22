@@ -44,10 +44,10 @@ for rate in rate_chunk:
     directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_back_trans_json(annotation)
         
@@ -55,7 +55,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = perturb_back_trans_json(annotation)
         
@@ -134,10 +134,10 @@ for rate in char_rate_chunk:
     directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_KeyboardAug_json(annotation, rate)
         
@@ -145,7 +145,7 @@ for rate in char_rate_chunk:
         json.dump(new_annotation, f)
         
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = perturb_KeyboardAug_json(annotation, rate)
         
@@ -162,10 +162,10 @@ for rate in char_rate_chunk:
     directory = "./annotation_%s/%s/"%(method,rate)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = perturb_OcrAug_json(annotation, rate)
         
@@ -173,7 +173,7 @@ for rate in char_rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = perturb_OcrAug_json(annotation, rate)
         
@@ -194,10 +194,10 @@ for action in action_chunk:
         directory = "./annotation_%s/%s/"%(method,rate)
         if not os.path.exists(directory):
             os.makedirs(directory)
-        os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+        os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
         
         #test
-        annotation = json.load(open('./original_annotation/ve_test.json','r'))
+        annotation = json.load(open('../original_annotation/ve_test.json','r'))
         print(len(annotation))
         new_annotation = perturb_RandomCharAug_json(annotation, action, rate)
         
@@ -205,7 +205,7 @@ for action in action_chunk:
             json.dump(new_annotation, f)
         
         #val
-        annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+        annotation = json.load(open('../original_annotation/ve_dev.json','r'))
         print(len(annotation))
         new_annotation = perturb_RandomCharAug_json(annotation, action, rate)
         
@@ -257,10 +257,10 @@ for rate in style_rate_chunk:
     print("Start %s %s"%(method, rate))
     style_value = 0
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -268,7 +268,7 @@ for rate in style_rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -285,10 +285,10 @@ for rate in style_rate_chunk:
     print("Start %s %s"%(method, rate))
     style_value = 1
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -296,7 +296,7 @@ for rate in style_rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -311,10 +311,10 @@ for rate in style_rate_chunk:
     print("Start %s %s"%(method, rate))
     style_value = 2
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     
     #test
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -322,7 +322,7 @@ for rate in style_rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -337,11 +337,11 @@ for rate in style_rate_chunk:
     print("Start %s %s"%(method, rate))
     style_value = 3
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))
     
     #test    
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -349,7 +349,7 @@ for rate in style_rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = text_style_perturb(annotation, method, style_value)
         
@@ -512,12 +512,12 @@ for rate in rate_chunk:
     
     method = str('ip')    
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
         
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = insert_punc(annotation,ratio=current_rate)
  
@@ -525,7 +525,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
     
     #val 
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = insert_punc(annotation,ratio=current_rate)
         
@@ -540,12 +540,12 @@ for rate in rate_chunk:
     
     method = str('sr')    
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     
     ##test.json
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=current_rate, alpha_ri=0.0, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
@@ -553,7 +553,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
     
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=current_rate, alpha_ri=0.0, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
@@ -571,12 +571,12 @@ for rate in rate_chunk:
     
     method = str('ri')    
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))    
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_dev.json ./annotation_%s/%s/ve_dev.json"%(method,rate))    
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=current_rate, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
@@ -584,7 +584,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
         
     #val
-    nnotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    nnotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=current_rate, alpha_rs=0.0, p_rd=0.0, num_aug=1)
         
@@ -599,12 +599,12 @@ for rate in rate_chunk:
     
     method = str('rs')    
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     
     ##test.json
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=current_rate, p_rd=0.0, num_aug=1)
         
@@ -612,7 +612,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
         
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=current_rate, p_rd=0.0, num_aug=1)
         
@@ -627,11 +627,11 @@ for rate in rate_chunk:
     
     method = str('rd')    
     #os.mkdir("./annotation_%s/%s/"%(method,rate))
-    os.system("cp -r ./original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
+    os.system("cp -r ../original_annotation/ve_train.json ./annotation_%s/%s/ve_train.json"%(method,rate))
     current_rate = 0.05*rate
     
     ##test.json
-    annotation = json.load(open('./original_annotation/ve_test.json','r'))
+    annotation = json.load(open('../original_annotation/ve_test.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=0.0, p_rd=current_rate, num_aug=1)
         
@@ -639,7 +639,7 @@ for rate in rate_chunk:
         json.dump(new_annotation, f)
         
     #val
-    annotation = json.load(open('./original_annotation/ve_dev.json','r'))
+    annotation = json.load(open('../original_annotation/ve_dev.json','r'))
     print(len(annotation))
     new_annotation = eda_perturb(method, annotation,alpha_sr=0.0, alpha_ri=0.0, alpha_rs=0.0, p_rd=current_rate, num_aug=1)
         

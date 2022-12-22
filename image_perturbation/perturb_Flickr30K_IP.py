@@ -519,7 +519,7 @@ def generate_flickr30k_c_datasets(method,current_severity):
     print("start %s"%(method.__name__))
     os.mkdir("Flickr30K_IP_%s_%s/"%(method.__name__,current_severity))
     i=0
-    savepath = "./Filckr30K_IP_%s_%s/"%(method.__name__,current_severity)
+    savepath = "./Flickr30K_IP_%s_%s/"%(method.__name__,current_severity)
     for imgpath in imglist:
         imgname= os.path.splitext(os.path.basename(imgpath))[0]
         #print(imgname)
@@ -557,5 +557,5 @@ for tmp in severity_chunk:
     current_severity = tmp
     current_alpha = current_severity*0.2
     print("current_severity:",current_severity)
-    os.system("python stylize.py --content-dir='./flickr30k-images-test/' --output-dir='./Filckr30K_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
+    os.system("python stylize.py --content-dir='./flickr30k-images-test/' --output-dir='./Flickr30K_IP_stylize_%s/' --alpha=%s"%(current_severity,current_alpha))
     print("finish stylize %s"%tmp)
