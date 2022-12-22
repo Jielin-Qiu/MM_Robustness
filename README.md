@@ -41,4 +41,5 @@ If you feel our code or models helps in your research, kindly cite our papers:
 
 - For text perturbation, please see [text_perturbation](https://github.com/Jason-Qiu/MM_Robustness/tree/main/text_perturbation)
 
+- For detection score, please see [detection_score](https://github.com/Jason-Qiu/MM_Robustness/tree/main/detection_score)
 
