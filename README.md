@@ -47,6 +47,10 @@ If you feel our code or models helps in your research, kindly cite our papers:
 
 - For detection score, please see [detection_score](https://github.com/Jason-Qiu/MM_Robustness/tree/main/detection_score)
 
+## Evaluation data for text-to-image generation
+
+For the text-to-image generation evaluation, we used the captions from COCO as prompt to generate the corrsponding images. We also share the generated images [here](https://drive.google.com/drive/folders/1V8ejnA0y59wchKfsMFU8Y9XIOPPZQNiN?usp=sharing).
+
 
 ## Security
 
