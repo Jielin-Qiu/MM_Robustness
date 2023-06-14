@@ -49,7 +49,7 @@ If you feel our code or models helps in your research, kindly cite our papers:
 
 ## Evaluation data for text-to-image generation
 
-For the text-to-image generation evaluation, we used the captions from COCO as prompt to generate the corrsponding images. We also share the generated images [here](https://drive.google.com/drive/folders/1V8ejnA0y59wchKfsMFU8Y9XIOPPZQNiN?usp=sharing).
+For the text-to-image generation evaluation, we used the captions from COCO as prompt to generate the corresponding images. We also share the generated images [here](https://drive.google.com/drive/folders/1V8ejnA0y59wchKfsMFU8Y9XIOPPZQNiN?usp=sharing).
 
 
 ## Security
