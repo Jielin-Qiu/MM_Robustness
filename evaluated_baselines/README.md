@@ -2,15 +2,15 @@
 
 In our experiments, we evaluated 9 multimodal models. The models are publicly available in the following repos: 
 
-CLIP: [https://github.com/openai/CLIP](https://github.com/openai/CLIP)
-ViLT: [https://github.com/dandelin/ViLT](https://github.com/dandelin/ViLT)
-TCL: [https://github.com/uta-smile/TCL](https://github.com/uta-smile/TCL)
-ALBEF: [https://github.com/salesforce/ALBEF](https://github.com/salesforce/ALBEF)
-BLIP: [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP)
-METER: [https://github.com/zdou0830/METER](https://github.com/zdou0830/METER)
-GRIT: [https://github.com/JialianW/GRiT](https://github.com/JialianW/GRiT)
-Stable Diffusion: [https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-GLIDE: [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
+CLIP: [https://github.com/openai/CLIP](https://github.com/openai/CLIP)  
+ViLT: [https://github.com/dandelin/ViLT](https://github.com/dandelin/ViLT)  
+TCL: [https://github.com/uta-smile/TCL](https://github.com/uta-smile/TCL)  
+ALBEF: [https://github.com/salesforce/ALBEF](https://github.com/salesforce/ALBEF)  
+BLIP: [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP)  
+METER: [https://github.com/zdou0830/METER](https://github.com/zdou0830/METER)  
+GRIT: [https://github.com/JialianW/GRiT](https://github.com/JialianW/GRiT)  
+Stable Diffusion: [https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)  
+GLIDE: [https://github.com/bumptech/glide](https://github.com/bumptech/glide)  
 
 ## Experimental hyperparameters
 
