@@ -51,6 +51,9 @@ If you feel our code or models helps in your research, kindly cite our papers:
 
 For the text-to-image generation evaluation, we used the captions from COCO as prompt to generate the corresponding images. We also share the generated images [here](https://drive.google.com/drive/folders/1V8ejnA0y59wchKfsMFU8Y9XIOPPZQNiN?usp=sharing).
 
+## Baselines
+
+For the evaluated baselines, plase see [evaluated_baselines](https://github.com/Jason-Qiu/MM_Robustness/tree/main/evaluated_baselines)
 
 ## Security
 
