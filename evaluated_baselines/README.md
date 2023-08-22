@@ -26,7 +26,7 @@ GLIDE: [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 
 - ALBEF:  We follow the commands in [https://github.com/salesforce/ALBEF](https://github.com/salesforce/ALBEF).
 - ViLT: We used the weights [ViLT-B/32 200k finetuned on NLVR2](https://github.com/dandelin/ViLT/releases/download/200k/vilt_nlvr2.ckpt). 
-- BLIP: We follow the commands in [https://github.com/salesforce/ALBEF](https://github.com/salesforce/ALBEF).
+- BLIP: We follow the commands in [https://github.com/salesforce/BLIP](https://github.com/salesforce/BLIP)  
 - TCL: We follow the commands in [https://github.com/uta-smile/TCL](https://github.com/uta-smile/TCL).
 - METER: We used the weights [METER-CLIP16-RoBERTa fine-tuned on NLVR2 (resolution: 288^2)](https://github.com/zdou0830/METER/releases/download/checkpoint/meter_clip16_288_roberta_nlvr2.ckpt).
 
