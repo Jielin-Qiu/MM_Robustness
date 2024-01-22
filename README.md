@@ -11,9 +11,9 @@ The code for generating multimodal robustness evaluation datasets for downstream
 If you feel our code or models help your research, kindly cite our papers:
 
 ```
-@inproceedings{Qiu2022AreMM,
+@inproceedings{Qiu2022BenchmarkingRO,
   title={Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift},
-  author={Jielin Qiu and Yi Zhu and Xingjian Shi and Florian Wenzel and Zhiqiang Tang and Ding Zhao and Bo Li and Mu Li},
+  author={Jielin Qiu and Yi Zhu and Xingjian Shi and F. Wenzel and Zhiqiang Tang and Ding Zhao and Bo Li and Mu Li},
   journal={Journal of Data-centric Machine Learning Research (DMLR)},
   year={2024}
 }
