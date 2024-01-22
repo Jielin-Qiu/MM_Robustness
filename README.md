@@ -1,27 +1,21 @@
 # MM_Robustness
 
-## [Are Multimodal Models Robust to Image and Text Perturbations?](https://arxiv.org/abs/2212.08044)
+## [Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift](https://arxiv.org/abs/2212.08044)
 
 More details can be found on the [project webpage](https://mmrobustness.github.io/).
 
-The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reseaning, visual entailment, image captioning, and text-to-image generation.
+The code for generating multimodal robustness evaluation datasets for downstream image-text applications, including image-text retrieval, visual reasoning, visual entailment, image captioning, and text-to-image generation.
 
 ## Citation
 
-If you feel our code or models helps in your research, kindly cite our papers:
+If you feel our code or models help your research, kindly cite our papers:
 
 ```
 @inproceedings{Qiu2022AreMM,
-  title={Are Multimodal Models Robust to Image and Text Perturbations?},
+  title={Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift},
   author={Jielin Qiu and Yi Zhu and Xingjian Shi and Florian Wenzel and Zhiqiang Tang and Ding Zhao and Bo Li and Mu Li},
-  journal={arXiv preprint arXiv:2212.08044},
-  year={2022}
-}
-
-@inproceedings{qiu2022benchmarking,
-  title={Benchmarking Robustness under Distribution Shift of Multimodal Image-Text Models},
-  author={Qiu, Jielin and Zhu, Yi and Shi, Xingjian and Tang, Zhiqiang and Zhao, Ding and Li, Bo and Li, Mu},
-  booktitle={NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications}
+  journal={Journal of Data-centric Machine Learning Research (DMLR)},
+  year={2024}
 }
 ```
 
