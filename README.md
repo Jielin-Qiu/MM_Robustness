@@ -1,5 +1,7 @@
 # MM_Robustness
 
+Journal of Data-centric Machine Learning Research (DMLR)
+
 ## [Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift](https://arxiv.org/abs/2212.08044)
 
 More details can be found on the [project webpage](https://mmrobustness.github.io/).
